@@ -3,7 +3,7 @@
 [Demo van versie 1](https://veldte.github.io/web-typography-19-20/Versie1/)
 
 
-Dit is de eerste versie van mijn film. Dit fragment ik ga laten zien aan Darice tijdens het eerste feedback moment. Hierin heb ik inzichten meegenomen vanuit het interview. Deze inzichten zijn.
+Dit is de eerste versie van mijn film. Dit fragment ik ga laten zien aan Darice tijdens het eerste feedback moment. Hierin heb ik inzichten meegenomen vanuit het interview. Deze inzichten zijn:
 1. Wanneer je niet kan zien dat iemand praat moet je altijd aangeven wie er praat. Dit kan door middel van "Naam:". 
 2. Onderscheid kan makkelijker gemaakt worden wanneer je mensen of bepaalde input als geluid één en dezelfde typografie geeft. Bijvoorbeeld Italic voor characters en bold voor geluiden. 
 3. Met kleuren kan je spanning goed aangeven. 
