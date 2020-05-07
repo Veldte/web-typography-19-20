@@ -1,6 +1,6 @@
 # Versie 1 Blade Runner 
 
-[Demo 1 voor opdracht 1](https://veldte.github.io/web-typography-19-20/Versie1/)
+[Demo van versie 1](https://veldte.github.io/web-typography-19-20/Versie1/)
 
 
 Dit is de eerste versie van mijn film. Dit fragment ik ga laten zien aan Darice tijdens het eerste feedback moment. Hierin heb ik inzichten meegenomen vanuit het interview. Deze inzichten zijn.
