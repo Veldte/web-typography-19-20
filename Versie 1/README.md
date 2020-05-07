@@ -1,13 +1,14 @@
-# Responsive Typography, 2019/2020
+# Versie 1 Blade Runner 
 
-Dit is de eerste versie van mijn film die ik ga laten zien aan Darice tijdens het eerste feedback moment. Hierin heb ik inzichten meegenomen vanuit het interview. Deze inzichten zijn.
+Dit is de eerste versie van mijn film. Dit fragment ik ga laten zien aan Darice tijdens het eerste feedback moment. Hierin heb ik inzichten meegenomen vanuit het interview. Deze inzichten zijn.
 1. Wanneer je niet kan zien dat iemand praat moet je altijd aangeven wie er praat. Dit kan door middel van "Naam:". 
 2. Onderscheid kan makkelijker gemaakt worden wanneer je mensen of bepaalde input als geluid één en dezelfde typografie geeft. Bijvoorbeeld Italic voor characters en bold voor geluiden. 
 3. Met kleuren kan je spanning goed aangeven. 
 
 ## De keuze voor het font "Brenner"
 
-Na met Darice te hebben gesproken over hoe zij het liefst naar een film kijkt heb ik twee bevindingen opgedaan. Ze houd van niet teveel onderscheid in tekst maar wel op momenten door middel van kleur en dikte van de typografie. Nu bevat de film veel verschillende personages en intonaties. Om deze reden heb ik voor het brenner font gekozen omdat deze veel rijker is aan mogelijkheden. Zo kan ik Darice goed ondersteunen tijdens het kijken van de film door subtiele maar prettige aanpassingen aan de font-style te doen. Brenner ondersteunt mij hier beter in dan een systeem font omdat je goed kan experimenteren met diktes, stijlen en gewichten.
+Na met Darice te hebben gesproken over hoe zij het liefst naar een film kijkt heb ik twee bevindingen opgedaan. Ze houd van niet teveel onderscheid in tekst maar wel op momenten door middel van kleur en dikte van de typografie. Nu bevat de film veel verschillende personages, intonaties en typen geluiden. Om deze reden heb ik voor het brenner font gekozen omdat deze veel rijker is aan mogelijkheden. Zo kan ik Darice goed ondersteunen tijdens het kijken van de film door subtiele maar prettige aanpassingen aan de font-style te doen. Brenner ondersteunt mij hier beter in dan een systeem font omdat je goed kan experimenteren met diktes, stijlen en gewichten. Ook zijn er genoeg verschillende elementen om aan te geven. Met Brenner kan ik meer onderscheid in de tekst maken dan met een systeem font. 
+Daarnaast zijn niet alle systeem fonts erg aantrekkelijk als ondertiteling en vind ik Brenner beter passen bij een spannend fragment. Zeker de slab en display variant zijn prettig voor het oog maar ook goed voor een wat spannendere film wanneer je het mij vraagt.
 
 ## Aanpassing 1: Html tekst
 
