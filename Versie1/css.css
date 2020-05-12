@@ -7,7 +7,7 @@ Feel free to adjust the defaults to your needs.
 ********************************************** */
 
 body {
-    background-color: white;
+    background-color: black;
 }
 
 #video-placeholder {
@@ -74,12 +74,15 @@ body {
 
 .sound0 iframe {
     transform: scale(1, 1);
+
+
 }
 
 .sound1 iframe {
     transform: scale(1.1, 1.1);
     transition: ease-in 1s;
- 
+    animation: shake 0.7s;
+
 }
 
 .sound1 #closed-captions {
@@ -92,18 +95,113 @@ body {
 
 .sound2 iframe {
     transform: scale(1, 1);
+    animation: shake 0.7s;
 
 }
 
 .sound3 iframe {
     transform: scale(1.1, 1.1);
     transition: ease-in 1s;
+
+
+}
+
+.sound3 {
+    animation: bodylight 1s;
 }
 
 .sound3 #closed-captions {
     margin-top: 1.5rem;
 
 }
+
+.sound5 {
+    animation: bodywhite 1s;
+}
+
+.sound5 iframe {
+    animation: shake 0.7s;
+    transform: scale(1.2, 1.2);
+}
+
+
+/*@keyframes fly {
+
+    0% {
+        transform: rotate(0deg);
+    }
+
+    50% {
+        transform: rotate(45deg);
+    }
+    100% {
+        transform: rotate(0deg;
+        )
+    }
+}*/
+
+
+@keyframes bodylight {
+
+    0% {
+        background-color: white;
+    }
+
+    100% {
+        background-color: indianred;
+    }
+}
+
+@keyframes bodywhite {
+
+    0% {
+        background-color: black;
+    }
+
+    100% {
+        background-color: white;
+    }
+}
+
+
+@keyframes shake {
+    0% {
+        transform: translate(1px, 1px) rotate(0deg);
+    }
+    10% {
+        transform: translate(-1px, -2px) rotate(-1deg);
+    }
+    20% {
+        transform: translate(-3px, 0px) rotate(1deg);
+    }
+    30% {
+        transform: translate(3px, 2px) rotate(0deg);
+    }
+    40% {
+        transform: translate(1px, -1px) rotate(1deg);
+    }
+    50% {
+        transform: translate(-1px, 2px) rotate(-1deg);
+    }
+    60% {
+        transform: translate(-3px, 1px) rotate(0deg);
+    }
+    70% {
+        transform: translate(3px, 1px) rotate(-1deg);
+    }
+    80% {
+        transform: translate(-1px, -1px) rotate(1deg);
+    }
+    90% {
+        transform: translate(1px, 2px) rotate(0deg);
+    }
+    100% {
+        transform: translate(1px, -2px) rotate(-1deg);
+    }
+}
+
+
+
 
 
 /* Tweede Alarm ---------------*/
@@ -607,6 +705,7 @@ You probably want to change the styling.
     opacity: 1;
     margin-left: .5em;
 }
+
 /*-------------P28-----------voice-----------P28-*/
 
 .p28.on span:first-of-type {
@@ -622,6 +721,7 @@ You probably want to change the styling.
     opacity: 1;
     margin-left: .5em;
 }
+
 /*-------------P30-----------voice-----------P30-*/
 
 .p30.on span:first-of-type {
@@ -785,6 +885,7 @@ You probably want to change the styling.
     opacity: 1;
     margin-left: .5em;
 }
+
 /*-------------P46-----------voice-----------P46-*/
 
 .p46.on span:first-of-type {
@@ -800,7 +901,3 @@ You probably want to change the styling.
     opacity: 1;
     margin-left: .5em;
 }
-
-
-
-
