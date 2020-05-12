@@ -1,27 +1,23 @@
-# Versie 1 Blade Runner 
+# Versie 2 Blade Runner 
 
-[Demo van versie 1](https://veldte.github.io/web-typography-19-20/Versie1/)
+[Demo van versie 1](https://veldte.github.io/web-typography-19-20/Versie2/)
 
 
-Dit is de eerste versie van mijn film. Dit fragment ik ga laten zien aan Darice tijdens het eerste feedback moment. Hierin heb ik inzichten meegenomen vanuit het interview. Deze inzichten zijn:
-1. Wanneer je niet kan zien dat iemand praat moet je altijd aangeven wie er praat. Dit kan door middel van "Naam:". 
-2. Onderscheid kan makkelijker gemaakt worden wanneer je mensen of bepaalde input als geluid één en dezelfde typografie geeft. Bijvoorbeeld Italic voor characters en bold voor geluiden. 
-3. Met kleuren kan je spanning goed aangeven. 
 
-## De keuze voor het font "Brenner"
+## Aanpassing 1: Kleur en animatie op de sound
 
-Na met Darice te hebben gesproken over hoe zij het liefst naar een film kijkt heb ik twee bevindingen opgedaan. Ze houd van niet teveel onderscheid in tekst maar wel op momenten door middel van kleur en dikte van de typografie. Nu bevat de film veel verschillende personages, intonaties en typen geluiden. Om deze reden heb ik voor het brenner font gekozen omdat deze veel rijker is aan mogelijkheden. Zo kan ik Darice goed ondersteunen tijdens het kijken van de film door subtiele maar prettige aanpassingen aan de font-style te doen. Brenner ondersteunt mij hier beter in dan een systeem font omdat je goed kan experimenteren met diktes, stijlen en gewichten. Ook zijn er genoeg verschillende elementen om aan te geven. Met Brenner kan ik meer onderscheid in de tekst maken dan met een systeem font. 
-Daarnaast zijn niet alle systeem fonts erg aantrekkelijk als ondertiteling en vind ik Brenner beter passen bij een spannend fragment. Zeker de slab en display variant zijn prettig voor het oog maar ook goed voor een wat spannendere film wanneer je het mij vraagt.
+Zowel Vasilis als Darice vonden de eerste versie een goed begin. Wel kreeg ik de opmerking om nog meer gekke dingen te doen met kleur en de iframe. Dit heb ik dan ook gedaan. Ik had in versie een alleen nog de iframe groter en kleiner laten worden. In versie twee heb ik dit uitgebreid met de de backgroundcolor te laten veranderen wanneer het scherm bijvoorbeeld groter wordt. Ook heb ik het frame laten trillen en poppen op bepaalde sounds. Zo is bijvoorbeeld het eerste shot (sound0, sound1 en sound 2) een spannende opbouw. Ik heb ervoor gekozen het frame hier te laten trillen waarna het in een keer naar een net iets groter frame popt. Zo klopt het precies op de muziek en denk ik dat het de bedoeling van de muziek (namelijk indruk maken) goed overkomt.
 
-## Aanpassing 1: Html tekst
+## Aanpassing 2: Sound aanduidingen
 
-Punt een van Darice heb ik direct verwerkt. Ik heb van frament een bepaald wat de teksten zijn waar niet duidelijk zichtbaar is wie er spreekt. Ik heb dit aangegeven door de characters namen te geven als "Man", "Voice" en "Constant K". Dit was best lastig aangezien in de film niet veel gebruik wordt gemaakt van namen. 
 
-## Aanpassing 2: Experimenteren met aanduidingen
+Darice gaf in het feedback gesprek aan graag zowel tekstuele aanduiding als visuele effecten te willen zien tijdens de sounds. Ik heb daarom een manier gezocht hoe ik op de sound classes tekst kan laten ontstaan. Vasilis heeft mij hier bij geholpen. Door de :before pseudoclass te gebruiken maak ik content aan tijdens de specifieke sound classes. Waarna ik de content verander op de volgende sound class.
 
-Na iedereen een naam te hebben gegeven en dit zichtbaar te maken tijdens het afspelen heb ik gekeken waar de zinnen te lang zijn geworden door deze aanduiding. Het viel mij op dat je niet elke keer de naam hoeft te herhalen wanneer er een patroon ontstaat. Om deze reden heb ik soms "Constant K:" weggehaald en vervangen door een " - ". Zo probeer ik aan te geven dat het Constant K is die antwoord geeft. Dit wil ik dan ook testen met Darice of dit duidelijk is.
+## Aanpassing 3: Naam aanduiding.
 
-## Aanpassing 3: Font-style
+Darice gaf aan in het feedback gesprek toch liever altijd een naam aanduiding te zien wanneer "Constant K:" met zijn rug naar de camera zit. Ze zei dat door mijn prettige kleurgebruik per personage het goed te volgen is wie er praat en ze alleen door de kleur in haar ooghoek te zien  weet wie er spreekt. Daarom zou ze het prettig vinden om wel de naam aanduiding van Constant te zien in die scene. Dit heb ik dan ook aangepast.
 
-Ik ben nog net een stapje verder gegaan. Want wat nou als je de naam aanduidingen altijd een opvallende *font-style* geeft. Dan zal het brein dit als het goed is als patroon opvatten en niet elke keer opnieuw willen lezen. Ik heb daarom ervoor gekozen om de naam aanduidingen het fonr "brenner slab" te geven met een font-weight van 200. Zo is de naam onderscheidend genoeg van de rest van de tekst en hoop ik dat Darice het gesprek goed kan volgen.
+## Aanpassing 4: Spelen met woordem
+
+Mijn typografie was in versie een goed geordend maar misschien nog wel erg netjes. Er mag wel wat meer speelsheid in. Daarom heb ik in versie twee gewerkt aan het animeren en veranderen van alle accent woorden. De woorden die hard of nadrukkelijk worden uitgesproken heb ik een andere css stijl gegeven waardoor het opvalt. Ook wordt de video hierdoor iets speelser en origineler. 
 
