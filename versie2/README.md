@@ -17,7 +17,7 @@ Darice gaf in het feedback gesprek aan graag zowel tekstuele aanduiding als visu
 
 Darice gaf aan in het feedback gesprek toch liever altijd een naam aanduiding te zien wanneer "Constant K:" met zijn rug naar de camera zit. Ze zei dat door mijn prettige kleurgebruik per personage het goed te volgen is wie er praat en ze alleen door de kleur in haar ooghoek te zien  weet wie er spreekt. Daarom zou ze het prettig vinden om wel de naam aanduiding van Constant te zien in die scene. Dit heb ik dan ook aangepast.
 
-## Aanpassing 4: Spelen met woordem
+## Aanpassing 4: Spelen met woorden.
 
 Mijn typografie was in versie een goed geordend maar misschien nog wel erg netjes. Er mag wel wat meer speelsheid in. Daarom heb ik in versie twee gewerkt aan het animeren en veranderen van alle accent woorden. De woorden die hard of nadrukkelijk worden uitgesproken heb ik een andere css stijl gegeven waardoor het opvalt. Ook wordt de video hierdoor iets speelser en origineler. 
 
