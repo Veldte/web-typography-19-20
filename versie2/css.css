@@ -73,7 +73,7 @@ body {
 /*SOUND TEKST*/
 
 .sound0::before {
-    content: "INTENS MUSIC";
+    content: "";
     color: lightgoldenrodyellow;
     font-family: "brenner mono medium";
     z-index: 2;
@@ -92,11 +92,8 @@ body {
     right: 0;
     bottom: 60px;
     text-align: center;
+    font-size: 1em;
     
-
-
-
-
 
 }
 
@@ -123,6 +120,57 @@ body {
 
 .sound5::before {
     content: '[HIGH PEEPTONE]';
+    color: lightgoldenrodyellow;
+    font-family: "brenner mono medium";
+    z-index: 1;
+    
+}
+
+
+.sound6::before {
+    content: '[DRUM]';
+    color: lightgoldenrodyellow;
+    font-family: "brenner mono medium";
+    z-index: 1;
+    
+}
+
+.sound7::before {
+    content: '[HIGH PEEPTONE]';
+    color: lightgoldenrodyellow;
+    font-family: "brenner mono medium";
+    z-index: 1;
+    
+}
+
+.sound8::before {
+    content: '[BUZZER]';
+    color: lightgoldenrodyellow;
+    font-family: "brenner mono medium";
+    z-index: 1;
+    
+}
+
+.sound9::before {
+    content: '[HIGH PEEPTONE]';
+    color: lightgoldenrodyellow;
+    font-family: "brenner mono medium";
+    z-index: 1;
+    
+}
+
+
+
+.sound10::before {
+    content: '[HIGH PEEPTONE GETTING LOUDER]';
+    color: lightgoldenrodyellow;
+    font-family: "brenner mono medium";
+    z-index: 1;
+    animation: tekstgrootte 42s;
+}
+
+.sound11::before {
+    content: '';
     color: lightgoldenrodyellow;
     font-family: "brenner mono medium";
     z-index: 1;
@@ -202,37 +250,49 @@ body {
 }
 
 
+.sound8 iframe {
+    animation: shake4 0.7s;
+    transform: scale(1.1, 1.1);
+}
 
-/*@keyframes fly {
+.sound9 {
+    animation: bodylightacht 1s;
+}
 
-    0% {
-        transform: rotate(0deg);
-    }
-
-    50% {
-        transform: rotate(45deg);
-    }
-    100% {
-        transform: rotate(0deg;
-        )
-    }
+.sound9 iframe {
+    transform: scale(1.2, 1.2);
 }
 
 
-@keyframes tekst {
-    
-    0% {
-        opacity: 1;
 
-    }
-    
-    100% {
-        opacity: 0;
-    }
+
+.sound10{
+    animation: bodywhitelang 42s;
     
 }
+.sound10 iframe {
+    transform: scale(1,1);
+    transition: 42s ease;
+}
 
-*/
+.sound12 iframe{
+    transform: scale(1.2,1.2);
+  
+}
+
+
+
+@keyframes tekstgrootte{
+    0%{
+        font-size: 1em;
+    }
+    
+    100%{
+        font-size: 1.5em;
+        color: ghostwhite;
+        text-shadow:  2px 2px grey;
+    }
+}
 
 @keyframes bodylight {
 
@@ -242,6 +302,17 @@ body {
 
     100% {
         background-color: indianred;
+    }
+}
+
+@keyframes bodylightacht {
+
+    0% {
+        background-color: black;
+    }
+
+    100% {
+        background-color: white;
     }
 }
 
@@ -266,6 +337,18 @@ body {
         background-color: white;
     }
 }
+
+@keyframes bodywhitelang {
+
+    0% {
+        background-color: black;
+    }
+
+    100% {
+        background-color: white;
+    }
+}
+
 
 @keyframes shake {
     0% {
@@ -340,6 +423,41 @@ body {
 }
 
 @keyframes shake3 {
+    0% {
+        transform: translate(1px, 1px) rotate(0deg);
+    }
+    10% {
+        transform: translate(-1px, -2px) rotate(-1deg);
+    }
+    20% {
+        transform: translate(-3px, 0px) rotate(1deg);
+    }
+    30% {
+        transform: translate(3px, 2px) rotate(0deg);
+    }
+    40% {
+        transform: translate(1px, -1px) rotate(1deg);
+    }
+    50% {
+        transform: translate(-1px, 2px) rotate(-1deg);
+    }
+    60% {
+        transform: translate(-3px, 1px) rotate(0deg);
+    }
+    70% {
+        transform: translate(3px, 1px) rotate(-1deg);
+    }
+    80% {
+        transform: translate(-1px, -1px) rotate(1deg);
+    }
+    90% {
+        transform: translate(1px, 2px) rotate(0deg);
+    }
+    100% {
+        transform: translate(1px, -2px) rotate(-1deg);
+    }
+}
+@keyframes shake4 {
     0% {
         transform: translate(1px, 1px) rotate(0deg);
     }
@@ -717,7 +835,29 @@ You probably want to change the styling.
     margin-left: .5em;
 }
 
+/*-----------------12-------------*/
 
+
+.p12.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p12.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p12.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
 
 /*-------------P13-----------voice-----------P13-*/
 
@@ -747,6 +887,31 @@ You probably want to change the styling.
 
 
 .p14.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+
+/*-----------------15-------------*/
+
+
+.p15.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p15.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p15.on span:nth-of-type(3) {
     opacity: 1;
     margin-left: .5em;
 }
@@ -783,6 +948,31 @@ You probably want to change the styling.
     margin-left: .5em;
 }
 
+
+/*-----------------18-------------*/
+
+
+.p18.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p18.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p18.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
 /*-------------P19-----------voice-----------P19-*/
 
 .p19.on span:first-of-type {
@@ -795,6 +985,31 @@ You probably want to change the styling.
 
 
 .p19.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+
+/*-----------------20-------------*/
+
+
+.p20.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p20.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p20.on span:nth-of-type(3) {
     opacity: 1;
     margin-left: .5em;
 }
@@ -833,6 +1048,31 @@ You probably want to change the styling.
     margin-left: .5em;
 }
 
+
+/*-----------------23-------------*/
+
+
+.p23.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p23.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p23.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
 /*-------------P24-----------voice-----------P24-*/
 
 .p24.on span:first-of-type {
@@ -864,6 +1104,33 @@ You probably want to change the styling.
     opacity: 1;
     margin-left: .5em;
 }
+
+
+/*-----------------26-------------*/
+
+
+.p26.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p26.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p26.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+
 
 /*-------------P27-----------voice-----------P27-*/
 
@@ -897,6 +1164,29 @@ You probably want to change the styling.
     margin-left: .5em;
 }
 
+/*-----------------29-------------*/
+
+
+.p29.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p29.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p29.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
 /*-------------P30-----------voice-----------P30-*/
 
 .p30.on span:first-of-type {
@@ -912,6 +1202,32 @@ You probably want to change the styling.
     opacity: 1;
     margin-left: .5em;
 }
+
+
+/*-----------------31-------------*/
+
+
+.p31.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p31.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p31.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
 
 /*-------------P32-----------voice-----------P32-*/
 
@@ -941,6 +1257,31 @@ You probably want to change the styling.
 
 
 .p33.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+
+/*-----------------34-------------*/
+
+
+.p34.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p34.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p34.on span:nth-of-type(3) {
     opacity: 1;
     margin-left: .5em;
 }
@@ -977,6 +1318,29 @@ You probably want to change the styling.
     margin-left: .5em;
 }
 
+/*-----------------37-------------*/
+
+
+.p37.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p37.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p37.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
 /*-------------P38-----------voice-----------P38-*/
 
 .p38.on span:first-of-type {
@@ -993,6 +1357,29 @@ You probably want to change the styling.
     margin-left: .5em;
 }
 
+/*-----------------39-------------*/
+
+
+.p39.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p39.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p39.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
 /*-------------P40-----------voice-----------P40-*/
 
 .p40.on span:first-of-type {
@@ -1009,7 +1396,52 @@ You probably want to change the styling.
     margin-left: .5em;
 }
 
+
+/*-----------------41-------------*/
+
+
+.p41.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p41.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p41.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
 /*-------------P42-----------voice-----------P42-*/
+
+.p42.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p42.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p42.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
 
 .p42.on span:last-of-type {
     opacity: 1;
@@ -1020,6 +1452,26 @@ You probably want to change the styling.
 }
 
 /*-------------P43-----------voice-----------P43-*/
+
+.p43.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p43.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+.p43.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
 
 .p43.on span:last-of-type {
     opacity: 1;
@@ -1072,7 +1524,667 @@ You probably want to change the styling.
 }
 
 
-.p19.on span:nth-of-type(2) {
+.p46.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+
+
+/*----------------FRAGMENT TWEE----------------------------------------*/
+/*----------------FRAGMENT TWEE----------------------------------------*/
+/*----------------FRAGMENT TWEE----------------------------------------*/
+/*----------------FRAGMENT TWEE----------------------------------------*/
+/*----------------FRAGMENT TWEE----------------------------------------*/
+/*----------------FRAGMENT TWEE----------------------------------------*/
+/*----------------FRAGMENT TWEE----------------------------------------*/
+/*----------------FRAGMENT TWEE----------------------------------------*/
+/*----------------FRAGMENT TWEE----------------------------------------*/
+/*----------------FRAGMENT TWEE----------------------------------------*/
+
+/*-------------P48-----------voice-----------P48-*/
+
+.p48.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p48.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P49-----------voice-----------P49-*/
+
+.p49.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p49.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+.p49.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p50.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p50.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P51-----------voice-----------P51-*/
+
+.p51.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p51.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+.p51.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p52.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p52.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P51-----------voice-----------P51-*/
+
+.p53.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p53.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+.p53.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p54.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p54.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+
+/*-------------P50-----------voice-----------P50-*/
+
+
+.p55.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p55.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P51-----------voice-----------P51-*/
+
+.p56.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p56.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+.p56.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+
+.p57.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p57.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p58.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p58.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+.p58.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+
+.p59.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p59.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p60.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p60.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+.p60.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+
+.p61.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p61.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p62.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p62.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+.p62.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+
+.p63.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p63.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p64.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p64.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+.p64.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+
+.p65.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p65.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p66.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p66.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+.p66.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+
+/*-------------P50-----------voice-----------P50-*/
+
+
+.p67.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p67.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p68.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p68.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+.p68.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+
+.p69.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p69.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p70.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p70.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+.p70.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+
+.p71.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p71.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p72.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p72.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p72.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+
+.p73.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p73.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p74.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p74.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p74.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+
+.p75.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p75.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p76.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p76.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p76.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+
+.p77.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p77.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p78.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p78.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p78.on span:nth-of-type(3) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+
+.p79.on span:first-of-type {
+    opacity: 1;
+    font-weight: 400;
+    font-family: "brenner slab";
+    color: darkorange;
+
+}
+
+
+.p79.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-left: .5em;
+}
+
+/*-------------P50-----------voice-----------P50-*/
+
+.p80.on span:first-of-type {
+    opacity: 1;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+
+}
+
+.p80.on span:nth-of-type(2) {
+    opacity: 1;
+    margin-right: -.25em;
+    font-weight: 200;
+    font-family: "brenner slab";
+    color: skyblue;
+}
+
+.p80.on span:nth-of-type(3) {
     opacity: 1;
     margin-left: .5em;
 }
