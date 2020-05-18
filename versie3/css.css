@@ -102,6 +102,7 @@ body {
     color: lightgoldenrodyellow;
     font-family: "brenner mono medium";
     z-index: 1;
+    animation: buz 3s;
 }
 
 .sound3::before {
@@ -323,7 +324,7 @@ body {
 
 
 .sound14 iframe{
-    transform: scale(1,1);
+    transform: scale(1.2,1.2);
 
     
 }
@@ -371,26 +372,45 @@ body {
         background-color: black;
     }
 }
-
+@keyframes buz {
+    
+    0%{
+        transform: scale(1.1);
+    }
+    
+    100%{
+       transform: scale(1.4,1.4); 
+    }
+}
 
 @keyframes drum {
     0% {
         transform: scale(1.1);
+        color: lightgoldenrodyellow;
     }
     20% {
-        transform: scale(1.1, 1.1);
+        transform: scale(1.2, 1.2);
+        color: darkgoldenrod;
     }
     40% {
         transform: scale(1, 1);
+        color: lightgoldenrodyellow;
     }
     60% {
         transform: scale(1.1, 1.1);
+        color: darkgoldenrod;
     }
     80% {
         transform: scale(1,1);
+        color: lightgoldenrodyellow;
+    }
+    90% {
+        transform: scale(1.1,1.1);
+        color: darkgoldenrod;
     }
     100%{
-        transform: scale(1.1,1.1);
+        transform: scale(1,1);
+        color: lightgoldenrodyellow;
     }
 }
 
