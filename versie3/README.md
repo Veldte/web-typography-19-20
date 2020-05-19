@@ -1,6 +1,6 @@
 # Versie 2 Blade Runner 
 
-[Demo van versie 1](https://veldte.github.io/web-typography-19-20/Versie2/)
+[Demo van versie 1](https://veldte.github.io/web-typography-19-20/Versie3/)
 
 
 
