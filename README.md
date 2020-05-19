@@ -2,7 +2,7 @@
 
 ## De opdracht
 
-Voor het vak web-typografie heb ik de opdracht gekregen om de hele beleving van het Blade Runner fragment om te gooien naar iets totaal nieuws voor doven. De hele beleving van een film valt weg wanneer er niet wordt aangegeven wie er praat en wat voor geluid er speelt. En dit is precies het belangrijkste deel van een film. Daarom focust deze opdracht zich op het visueel maken van sounds en voices binnen een film. Hierbij mag ik experimenteren en ver gaan, lekker kijken wat werkt. 
+Voor het vak web-typografie heb ik de opdracht gekregen om de hele beleving van het Blade Runner fragment om te gooien naar iets totaal nieuws voor doven. De hele beleving van een film valt weg wanneer er niet wordt aangegeven wie er praat en wat voor geluid er speelt. En dit is precies het belangrijkste deel van een film. Daarom focust deze opdracht zich op het visueel maken van sounds en voices binnen deze twee scenes uit de film Blade Runner. Hierbij mag ik experimenteren en ver gaan, lekker kijken wat werkt. 
 
 ## Gesprekken met Darice
 
