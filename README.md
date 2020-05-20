@@ -1,4 +1,4 @@
-# Responsive Typography, 2019/2020
+# Eva Veldt Responsive Typography, 2019/2020
 
 ## De opdracht
 
