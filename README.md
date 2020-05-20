@@ -84,13 +84,13 @@ De tweede keer dat ik clip-path heb gebruikt is bij de ringtone in scene twee. H
 4. *Filter*: Het filter effect heb ik gebruikt om het scherm op een buzzer geluid in negatieven om te zetten. Ook heb ik deze tag gebruikt om aan het eind van scene twee aan te geven dat het geluid langzaam weggaat en een fade-out heeft. Dit heb ik gedaan met een blur. Ik denk dat een blur effect ervoor zorgt dat je weer even scherp moet stellen en er dus een nieuwe situatie is ontstaan, in dit geval eentje zonder geluid. 
 
 
-5. *Background en GIF* Naast het animeren van de Iframe heb ik ook tegelijkertijd de achtergrond van kleur laten veranderen en in één enkel geval een GIF toegevoegd ter verduidelijking. Zo probeer ik met de kleur een associatie te wekken met het type geluid. Een harde hoge toon heb ik bijvoorbeeld aangegeven met de kleur wit omdat dit verwijst naar "White noice" oftewel een harde pieptoon. Ondanks dat het geluid misschien niet precies klinkt als een harde white noise pieptoon, is dit wel waar het geluid het meest mee vergeleken kan worden.
+5. *Background en GIF*: Naast het animeren van de Iframe heb ik ook tegelijkertijd de achtergrond van kleur laten veranderen en in één enkel geval een GIF toegevoegd ter verduidelijking. Zo probeer ik met de kleur een associatie te wekken met het type geluid. Een harde hoge toon heb ik bijvoorbeeld aangegeven met de kleur wit omdat dit verwijst naar "White noice" oftewel een harde pieptoon. Ondanks dat het geluid misschien niet precies klinkt als een harde white noise pieptoon, is dit wel waar het geluid het meest mee vergeleken kan worden.
 
 
 
-### Verwerkte feedback
+## 3. Verwerkte feedback
 
-### Principes verwerkt in mijn eindversie
+## 4. Principes verwerkt in mijn eindversie
 
 Om alles even samen te vatten heb ik hieronder de lijst met principes. Ik zal even kort en bondig per principe uitleggen wat ik heb gedaan om dit in mijn eindversie te verwerken. 
 
