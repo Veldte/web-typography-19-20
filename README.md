@@ -61,21 +61,43 @@ Ook heb ik de typografie van de tekst per personage aangepast.
 Ook de sounds heb ik met woorden aangegeven. Zo heeft Darice een omschrijving van wat voor soort geluid dit is. Deze tekst is in *brenner mono medium* geschreven. Dit is namelijk een duidelijke en onderscheidende stijl van de rest van de tekst in de video. Deze tekst is namelijk wat dikker en duidelijker wanneer je deze gebruikt voor het weergeven van één woord zoals "Buzzer". Maar ook duidelijk voor korte zinnen als "Thrilling low drum". Naast het kiezen voor deze tekst stijl heb ik er ook voor gekozen deze sounds in kapitalen te schrijven. Omdat geen enkele andere tekst in het fragment in volledig kapitalen is geschreven zal deze tekst door haar grootte en dikte erg opvallen op de korte momenten van de sounds. Al om al heb ik geprobeerd om met de medium variant (dus dikke letters) en de kapitalen een directe focus te vragen van de kijker. Ook hoop ik dat de animaties op de geluiden dit versterkt. 
 
 #### Animeren van de tekst van de sounds
+
 Sommige sounds duren langer dan andere sounds. Om deze reden heb ik sommige woorden die de sounds omschrijven ook geanimeerd. Zo heb ik de "thrilling low drum" aan het begin laten kloppen op de maat van de drum. Zo geef ik aan hoe de maat van de muziek gaat en probeer ik ook de spanning mee te geven. 
 Ook heb ik bijvoorbeeld de buzzer van scale(1,1) naar scale (1.4,1.4) laten transformeren. Deze transformatie duurt precies net zo lang als het geluid. Door dit te doen hoop ik meer beleving toe te voegen dan alleen het stilstaande woord te laten zien. 
+
+#### Keyframes op de tekst van de sounds
+
+Ook de korte omschrijvende zinnetjes van de sounds heb ik met keyframes geanimeerd. Om aan te kunnen geven hoe de maat van de muziek loopt op een drum, heb ik bijvoorbeeld met scale de zin laten "kloppen". Ook heb ik woorden soms mee laten scalen met de animatie van de Iframe. Zo wordt het woord ook groter terwijl ook de iframe groter wordt. Dit doe ik om aan te geven hoe intens de muziek of het geluid werkelijk is. 
 
 
 ### 3. Iframe aanpassingen. 
 
 Ook het iframe heb ik aangepast en laten bewegen. Door hiermee te spelen op de momenten dat een sound wordt aangeroepen probeer ik de sound wat meer uit te beelden. Ik heb de volgende dingen gedaan met het iframe:
 
-1. Ik heb het iframe gescaled. Door dit te doen hoop ik de kijker meer in het beeld te zuigen. Ook maak ik tijdens het scalen soms de achtergrond een andere kleur (bijvoorbeeld rood) zodat de animatie lijkt op een alarm.
+1. *Scale*: Ik heb het iframe gescaled. Door dit te doen hoop ik de kijker meer in het beeld te zuigen. Ook maak ik tijdens het scalen soms de achtergrond een andere kleur (bijvoorbeeld rood) zodat de animatie lijkt op een alarm.
 
-2. 
+2. *Clippath*: Clip-path heb ik twee keer gebruikt. De eerste keer heb ik dit gebruikt om in scene een de lange harde toon weer te geven. Hoe groter de cirkel met clip-path wordt, des te harder het geluid. Om dit nog duidelijker te maken wordt de sound aanduiding: [HIGH PEEPTONE GETTING LOUDER] ook steeds groter naarmate het geluid luider wordt. 
+De tweede keer dat ik clip-path heb gebruikt is bij de ringtone in scene twee. Hier wil ik met de cirkel en het trillen van de iframe aangeven dat het geluid kort, plaatselijk en intens is. 
+
+3. *Rotate*: Rotate heb ik veel gebruikt op de momenten dat het scherm moest trillen. Door met Keyframes om de 10% een nieuwe rotate translate neer te zetten lijkt het alsof het scherm trilt. 
+
+4. *Filter*: Het filter effect heb ik gebruikt om het scherm op een buzzer geluid in negatieven om te zetten. Ook heb ik deze tag gebruikt om aan het eind van scene twee aan te geven dat het geluid langzaam weggaat en een fade-out heeft. Dit heb ik gedaan met een blur. Ik denk dat een blur effect ervoor zorgt dat je weer even scherp moet stellen en er dus een nieuwe situatie is ontstaan, in dit geval eentje zonder geluid. 
+
+
+5. *Background en GIF* Naast het animeren van de Iframe heb ik ook tegelijkertijd de achtergrond van kleur laten veranderen en in één enkel geval een GIF toegevoegd ter verduidelijking. Zo probeer ik met de kleur een associatie te wekken met het type geluid. Een harde hoge toon heb ik bijvoorbeeld aangegeven met de kleur wit omdat dit verwijst naar "White noice" oftewel een harde pieptoon. Ondanks dat het geluid misschien niet precies klinkt als een harde white noise pieptoon, is dit wel waar het geluid het meest mee vergeleken kan worden.
 
 
 
+### Verwerkte feedback
 
+### Principes verwerkt in mijn eindversie
+
+Om alles even samen te vatten heb ik hieronder de lijst met principes. Ik zal even kort en bondig per principe uitleggen wat ik heb gedaan om dit in mijn eindversie te verwerken. 
+
+1. Study situation 
+2. Ignore conventions
+3. Prioritise identity
+4. Add nonsense 
 
 # Hieronder per versie wat ik heb aangepast en welk stukje feedback ik heb verwerkt. 
 
