@@ -8,7 +8,7 @@ Voor het vak web-typografie heb ik de opdracht gekregen om de hele beleving van 
 
 Voor deze opdracht is het erg belangrijk dat je onderzoekt wat de identiteiten zijn. Dit zijn er in deze opdracht drie: Darice, de film en ikzelf. Hiervoor heb ik in een gesprekje geprobeerd Darice een beetje beter te leren kennen. Ik heb naar haar gevraagd maar ook naar haar ervaring met het kijken van films. Hieruit heb ik een aantal belangrijke punten gehaald.
 
-1. Volgens Darice is een film spannend wanneer het donker is maar ook wanneer de geluiden goed worden aangegeven. Darice gaf aan dat een geluid niet sterk overkomt wanneer er alleen een woord gegeven. Dit zette mij aan het denken om iets met het gehele beeld van de video te doen.
+1. Volgens Darice is een film spannend wanneer het donker is maar ook wanneer de geluiden goed worden aangegeven. Darice gaf aan dat een geluid niet sterk overkomt wanneer er alleen een woord wordt gegeven. Dit zette mij aan het denken om iets met het gehele beeld van de video te doen.
 
 2. Toch gaf Darice wel aan dat er een paar standaard dingen zijn binnen de closed captions waar ze erg aan gewend is inmiddels. Ze zei namelijk dat het aangeven van namen het beste werkt met een dubbele punt en een kleurtje. 
 
@@ -67,6 +67,11 @@ Ook heb ik bijvoorbeeld de buzzer van scale(1,1) naar scale (1.4,1.4) laten tran
 
 ### 3. Iframe aanpassingen. 
 
+Ook het iframe heb ik aangepast en laten bewegen. Door hiermee te spelen op de momenten dat een sound wordt aangeroepen probeer ik de sound wat meer uit te beelden. Ik heb de volgende dingen gedaan met het iframe:
+
+1. Ik heb het iframe gescaled. Door dit te doen hoop ik de kijker meer in het beeld te zuigen. Ook maak ik tijdens het scalen soms de achtergrond een andere kleur (bijvoorbeeld rood) zodat de animatie lijkt op een alarm.
+
+2. 
 
 
 

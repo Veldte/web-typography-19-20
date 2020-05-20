@@ -14,9 +14,14 @@ sounds = [
 	34,
     76,
 	86,
-    91, // sound 14 scherm wordt kleiner
-    91, //sound 14 scherm trilt 
-    103, // scherm 15 wordt groter
-    112, // tussen sound om niet het woord te houden
-    119, //intense piep
+  
+    91, //sound 13 GROTER
+    103, // scherm 14 TRILLEN
+    105, // TEKST WEG 15
+    112, // tussen 16 sound om niet het woord te houden
+    119, //intense 17 piep
+    122, // intens 18 zoom uit
+    128,// sound 19
+    132, //sound 20
+  
 ];
