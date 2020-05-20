@@ -99,7 +99,14 @@ Om alles even samen te vatten heb ik hieronder de lijst met principes. Ik zal ev
 3. Prioritise identity
 4. Add nonsense 
 
+
+## Bronnen
+
+
 # Hieronder per versie wat ik heb aangepast en welk stukje feedback ik heb verwerkt. 
+
+
+
 
 ## Versie 1 Blade Runner 
 
