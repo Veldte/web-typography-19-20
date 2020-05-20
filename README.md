@@ -3,6 +3,7 @@
 ## De opdracht
 
 Voor het vak web-typografie heb ik de opdracht gekregen om de hele beleving van het Blade Runner fragment om te gooien naar iets totaal nieuws voor doven. De hele beleving van een film valt weg wanneer er niet wordt aangegeven wie er praat en wat voor geluid er speelt. En dit is precies het belangrijkste deel van een film. Daarom focust deze opdracht zich op het visueel maken van sounds en voices binnen deze twee scenes uit de film Blade Runner. Hierbij mag ik experimenteren en ver gaan, lekker kijken wat werkt. 
+[Demo van de eindversie](https://veldte.github.io/web-typography-19-20/Versie3/)
 
 ## Gesprekken met Darice
 
@@ -162,4 +163,4 @@ Mijn typografie was in versie een goed geordend maar misschien nog wel erg netje
 
 # Versie 3 Blade Runner 
 
-[Demo van versie 1](https://veldte.github.io/web-typography-19-20/Versie3/)
+[Demo van versie 3](https://veldte.github.io/web-typography-19-20/Versie3/)
