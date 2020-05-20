@@ -198,10 +198,11 @@ body {
 }
 
 .sound15::before {
-    content: '[INTENS MUSIC]';
+    content: '[MUSIC GETTING MORE INTENS]';
     color: lightgoldenrodyellow;
     font-family: "brenner mono medium";
     z-index: 1;
+    animation: drum2 13s;
 }
 
 .sound17::before {
@@ -209,6 +210,7 @@ body {
     color: lightgoldenrodyellow;
     font-family: "brenner mono medium";
     z-index: 1;
+    animation: teksthigh 3s;
 }
 
 .sound18::before {
@@ -216,6 +218,7 @@ body {
     color: lightgoldenrodyellow;
     font-family: "brenner mono medium";
     z-index: 1;
+    animation: tekstlow 3s;
 }
 
 .sound19::before {
@@ -224,7 +227,7 @@ body {
     font-family: "brenner mono medium";
     z-index: 1;
     animation: fade 5s;
-    
+
 }
 
 .sound20::before {
@@ -232,7 +235,7 @@ body {
     color: lightgoldenrodyellow;
     font-family: "brenner mono medium";
     z-index: 1;
-    
+
 }
 
 /*Intro geluid---------------------*/
@@ -363,7 +366,7 @@ body {
 .sound10 iframe {
     transform: scale(1, 1);
     animation: cirkel 42s;
-    transition: 42s ease;
+    transition: 41s ease;
 }
 
 .sound12 iframe {
@@ -381,13 +384,20 @@ body {
     transform: scale(1, 1);
 }
 
+.sound15 iframe{
+    transform: scale(1,1);
+    animation: zoom 14s;
+}
 .sound16 iframe {
     /*    transform: scale(1.2,1.2);*/
     /*    transform: rotate3d(.1,.1,0,40deg);*/
+    /*
     animation: driedee 3s;
     transition-duration: 2s;
-    transform: scale(1, 1);
+*/
+    transform: scale(1,1);
 }
+
 
 
 .sound17 iframe {
@@ -404,7 +414,25 @@ body {
     animation: driedee 3s;
 }
 
+.sound20 iframe{
+    filter: blur(5px);
+}
 /*----------------------------KEYFRAMES*/
+
+@keyframes zoom {
+    0% {
+        transform: scale(1, 1);
+    }
+    
+    50%{
+        transform: scale(1.2,1.2);
+    }
+
+    100% {
+        transform: scale(1, 1);
+    }
+}
+
 
 @keyframes zoomout {
     0% {
@@ -429,18 +457,18 @@ body {
 
 @keyframes driedee {
 
-    0%{
+    0% {
         filter: blur(0px);
     }
-    
-    50%{
-         filter: blur(5px);
+
+    50% {
+        filter: blur(5px);
     }
-    
-    100%{
-         filter: blur(0px);
+
+    100% {
+        filter: blur(0px);
     }
-/*
+    /*
     from {
         transform: rotateX(0deg);
         transform: rotateY(0deg);
@@ -472,10 +500,14 @@ body {
 
     0% {
         clip-path: circle(70%);
+        background-color: black;
     }
-    99% {
+
+    99.9% {
         clip-path: circle(40%);
+        background-color: black;
     }
+
 
     100% {
         clip-path: circle(100%);
@@ -523,6 +555,57 @@ body {
         transform: scale(1, 1);
         color: lightgoldenrodyellow;
     }
+}
+
+
+@keyframes teksthigh {
+    0% {
+        transform: scale(1,1);
+        color: lightgoldenrodyellow;
+    }
+
+
+    100% {
+        transform: scale(1.4, 1.4);
+        color: white;
+        font-size: 1.2em;
+    }
+}
+
+@keyframes tekstlow{
+     0% {
+        transform: scale(1.4, 1.4);
+        color: white;
+        font-size: 1.2em;
+    }
+
+    100% {
+        transform: scale(1, 1);
+        color: lightgoldenrodyellow;
+        text-shadow: 2px 2px black;
+    }
+
+}
+}
+@keyframes drum2 {
+    0% {
+        transform: scale(1,1);
+        color: lightgoldenrodyellow;
+    }
+
+
+    50% {
+        transform: scale(1.4, 1.4);
+        color: white;
+        font-size: 1.2em;
+    }
+
+    100% {
+        transform: scale(1, 1);
+        color: lightgoldenrodyellow;
+        text-shadow: 2px 2px black;
+    }
+
 }
 
 @keyframes alarm {
