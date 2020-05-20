@@ -1,6 +1,6 @@
 # Versie 3 Blade Runner 
 
-[Demo van versie 3](https://veldte.github.io/web-typography-19-20/Versie3/)
+[Demo van versie 3](https://veldte.github.io/web-typography-19-20/versie3/)
 
 
 ## Aanpassing 1: Het laten bewegen van sound aanduidingen
