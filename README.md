@@ -141,7 +141,7 @@ Ik ben geen wizard, maar ik houd wel van code. Toch heb ik een heleboel artikele
 
 ## Versie 1 Blade Runner 
 
-[Demo van versie 1](https://veldte.github.io/web-typography-19-20/versie1/)
+[Demo van versie 1](https://veldte.github.io/web-typography-19-20/Versie1/)
 
 
 Dit is de eerste versie van mijn film. Dit fragment ik ga laten zien aan Darice tijdens het eerste feedback moment. Hierin heb ik inzichten meegenomen vanuit het interview. Deze inzichten zijn:
