@@ -91,6 +91,15 @@ De tweede keer dat ik clip-path heb gebruikt is bij de ringtone in scene twee. H
 
 ## 3. Verwerkte feedback
 
+#### Feedback gesprek 1
+De eerste feedback sessie is goed verlopen. Deze sessie kwam vrij snel na de kickoff en om deze reden was ik nog niet heel erg begonnen aan het animeren van het beeld maar wel aan het opmaken van de tekst. Van Vasilis kreeg ik de tip om sound namen toe te voegen en meer met tekst groottes te werken. Dit heb ik dan ook gedaan. Ik heb de tekst van de "man" in de video namelijk gestijld zodat er meer nadruk ligt op hoe hij dit heeft gezegd. Veel andere tekst heb ik gelaten zoals het was. Dit heb ik gedaan omdat ik vond dat het animeren van die woorden niet veel waarde toe zou voegen aan de betekenis van de zin en ook niet uit zou kunnen beelden hoe de zin werd gezegd. 
+
+Van Darice kreeg ik ook de tip om voor de geluiden closed captions neer te zetten. Ook vond zij dat de tekst van de man inderdaad meer bewerkt kon worden zodat ze echt kon zien hoe de tekst wordt gezegd.
+
+#### Feedback gesprek 2
+
+Voor het tweede feedback gesprek had ik mijzelf al goed voorbereid. Ik had heel fragment een bewerkt en geanimeerd zodat ik echt goede feedback daarop kon ontvangen. Deze heb ik dan ook gekregen. Vasilis zei dat de cirkel die de pieptoon aangeeft sneller weer naar zwart mag springen aan het eind van het geluid. Het is namelijk een harde overgang. Darice zei over hetzelfde deel dat de closed caption van dat moment een iets donkerdere schaduw zou mogen krijgen omdat hij op deze manier nog niet was opgevallen. 
+
 ## 4. Principes verwerkt in mijn eindversie
 
 Om alles even samen te vatten heb ik hieronder de lijst met principes. Ik zal even kort en bondig per principe uitleggen wat ik heb gedaan om dit in mijn eindversie te verwerken. 
@@ -101,11 +110,30 @@ Om alles even samen te vatten heb ik hieronder de lijst met principes. Ik zal ev
 4. Add nonsense 
 
 
+1. *Study situation* : Zoals eerder omschreven heb ik eerst een goed gesprek gevoerd met Darice. Ik heb geprobeerd haar iets beter te leren kennen en haar identiteit te bepalen. Deze heb ik namelijk voor principe 3 nodig en is erg handig om te verwerken in het eindproduct. Ik kwam er vooral achter dat Darice van hele spannende films houd waarin ze de sfeer zo goed mogelijk wilt beleven. Dit kan door kleur en beweging bijvoorbeeld. Hoe spannender hoe beter, het kon haar niet gek genoeg zei ze. 
+
+2. *Ignore conventions* : De conventions die er al waren heb ik zeker ook genegeerd. Ik heb het beeld geflipt, vergroot, verkleind, gemaskeerd laten zien, gefilterd en ga zo maar door. Ik heb van het fragment zelf een hele andere beleving proberen te maken door vanalles met het beeld en stilstaande iframe te doen. Ook heb ik bepaalde haakjes [] weggelaten. Ik vond het niet nodig namen aan het begin van de zin binnen deze haakjes weer te geven en heb dit vervangen door een eigen kleur. Ook heb ik met de closed captions van de sounds gespeeld met kleur en groottes om zo meer gevoel te geven aan het geluid dat afspeeld. 
+
+3. *Prioritise identity* : Door het bestuderen van de situatie heb ik alle benodigde identiteiten in kaart kunnen brengen. Zo heb ik de identiteit van Darice, de film en mijzelf helder gekregen. Voor de gevonden identiteiten lees het bovenstaande kopje *" Gesprekken met Darice "*. Ik heb geprobeerd om alle drie de identiteiten te verwerken in mijn eindproduct. Ook dit leg ik onder het kopje *"gesprekken met darice"* uit. 
+
+4. *Add nonsense* : Het toevoegen van onzin was misschien wel het leukste om te doen. Het lijkt mij duidelijk dat dit ook automatisch binnen deze opdracht gebeurd. Het trillen van een scherm, het toepassen van clip-path en ga zo maar door, zijn allemaal dingen die in de normale uitwerking van een doven audio onzin zouden zijn. Alleen al het aanpassen van het schermformaat en het toevoegen  van een alarm gifje zijn dingen die normaal gesproken onzin zijn. Ik ben er wel over uit dat het toevoegen van onzin een enorm leuke manier is om iets tofs te maken. Het maakt je project hoe dan ook een stuk origineler.
+
 ## Bronnen
 
 
 # Hieronder per versie wat ik heb aangepast en welk stukje feedback ik heb verwerkt. 
 
+Ik ben geen wizard, maar ik houd wel van code. Toch heb ik een heleboel artikelen en websites geraadpleegd ter inspiratie en informatie. Ik heb ze hieronder allemaal neergezet. 
+
+- https://www.w3schools.com/howto/howto_css_image_effects.asp
+- https://www.c-sharpcorner.com/UploadFile/cd80b9/creating-3d-animation-in-html5/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path#inset()
+- https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate
+- https://www.google.com/search?q=siren++white+png&tbm=isch&ved=2ahUKEwiv5OSDlrPpAhVIP-wKHaG5B2IQ2-cCegQIABAA&oq=siren++white+png&gs_lcp=CgNpbWcQAzoECCMQJzoECAAQQzoECAAQHjoGCAAQBRAeOgYIABAHEB5Q02hY53Jg03loAHAAeACAAUOIAaABkgEBM5gBAKABAaoBC2d3cy13aXotaW1n&sclient=img&ei=-iC9Xq__Kcj-sAeh856QBg&bih=749&biw=1440#imgrc=qgWWgNzxLlbPIM
+- https://www.w3schools.com/cssref/css3_pr_text-shadow.asp
+- https://www.w3schools.com/howto/howto_css_shake_image.asp
+- https://davidwalsh.name/invert-colors-css
+- https://stackoverflow.com/questions/30125705/css-how-to-make-an-element-fade-in-and-then-fade-out
 
 
 
