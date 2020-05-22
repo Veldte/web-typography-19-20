@@ -22,13 +22,13 @@ Voor deze opdracht is het erg belangrijk dat je onderzoekt wat de identiteiten z
 ## Identiteiten
 Na de identiteit van Darice een beetje te hebben bepaald in de (feedback)gesprekken heb ik ook de identiteit van de film en mijzelf bepaald.
 
-### De film
+#### De film
 Toen ik de film keek viel mij op dat deze film inhoudelijk niet erg sterk is, maar dat de muziek je geboeid houdt. De hele film draait om het opbouwen van spanning en het zetten van duistere sferen. De personages in de film zijn sterk, stoer en heldhaftig. Alle reden om het fragment dat ik ga stijlen ook spannend en stoer te maken. 
 
-### Mijn identiteit
+#### Mijn identiteit
 Zelf houd ik van verrassend werk en originaliteit. Ik wijk graag af van wat normaal is. Toch wil ik wel ten alle tijden dat het werk dat ik maak prettig blijft om naar te kijken.
 
-### Conclusie
+#### Conclusie
 Ik heb ervoor gekozen een combinatie van alle drie de identiteiten te verwerken in het fragment. Ik heb het spannende uit de film door geprobeerd over te laten komen door donkere kleuren te gebruiken (zoals Darice omschreef). Ook heb ik een middenweg gevonden tussen de prettige fijne regels die Darice omschreef en mijn eigen originaliteit. Denk bij de regels die Darice omschreef aan een dubbele punt na een naam en kleuren per personage. Ik heb mijn eigen draai aan deze regels gegeven. Ik heb de sound aanduidingen in sommige gevalen laten bewegen om het tempo van de sound aan te geven. Ook heb ik bepaalde woorden in zinnen een accent gegeven wanneer hier in de film nadruk op werd gelegd. Zo heb ik geprobeerd van de normale regels af te stappen en met "nonsense" meer beleving toe proberen te voegen. 
 
 Ook heb ik de drie identiteiten gecombineerd in het visueel weergeven van de geluiden. Ik heb ervoor gezorgd dat Darice het geluid kan beleven (Darice), de beweging een spanning creëert (film), maar ook dat de bewegingen out of the box zijn en nieuwe beleving creëren (eigen identiteit).
