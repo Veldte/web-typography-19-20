@@ -13,7 +13,7 @@ Voor deze opdracht is het erg belangrijk dat je onderzoekt wat de identiteiten z
 
 1. Volgens Darice is een film spannend wanneer het donker is maar ook wanneer de geluiden goed worden aangegeven. Darice gaf aan dat een geluid niet sterk overkomt wanneer er alleen een woord wordt gegeven. Dit zette mij aan het denken om iets met het gehele beeld van de video te doen.
 
-2. Toch gaf Darice wel aan dat er een paar standaard dingen zijn binnen de closed captions waar ze erg aan gewend is inmiddels. Ze zei namelijk dat het aangeven van namen het beste werkt met een dubbele punt en een kleurtje. 
+2. Toch gaf Darice wel aan dat er een paar standaard regels zijn binnen de closed captions waar ze erg aan gewend is inmiddels. Ze zei namelijk dat het aangeven van namen het beste werkt met een dubbele punt en een kleurtje. 
 
 3. Ook zei ze dat consistentie hierin belangrijker is dan wat dan ook. Wanneer je iemand een kleurtje geeft weet ze altijd aan alleen al de kleur te herkennen wie praat. Zo hoeft ze niet altijd de naam te lezen. Dit geldt ook voor omgevingsgeluid zei Darice, ook dat zou dan een eigen kleur moeten krijgen. 
 
@@ -22,26 +22,26 @@ Voor deze opdracht is het erg belangrijk dat je onderzoekt wat de identiteiten z
 ## Identiteiten
 Na de identiteit van Darice een beetje te hebben bepaald in de (feedback)gesprekken heb ik ook de identiteit van de film en mijzelf bepaald.
 
-### De film
-Toen ik de film keek viel mij op dat deze film inhoudelijk niet erg sterk is, maar dat de muziek je geboeid houdt. De hele film draait om het opbouwen van spanning en het zetten van duistere sferen. De personages in de film zijn sterk, stoer en heldhaftig. Alle reden om het fragment dat ik ga stijlen ook spannend en stoer te maken. 
+#### De film
+Toen ik de film keek, viel mij op dat deze film inhoudelijk niet erg sterk is, maar dat de muziek je geboeid houdt. De hele film draait om het opbouwen van spanning en het zetten van duistere sferen. De personages in de film zijn sterk, stoer en heldhaftig. Alle reden om het fragment dat ik ga stijlen ook spannend en stoer te maken. 
 
-### Mijn identiteit
-Zelf houd ik van verrassend werk en originaliteit. Ik wijk graag af van wat normaal is. Toch wil ik wel ten alle tijden dat het werk dat ik maak prettig blijft om naar te kijken.
+#### Mijn identiteit
+Zelf houd ik van verrassend werk en originaliteit. Ik wijk graag af van wat normaal is. Toch wil ik wel te alle tijden dat het werk dat ik maak prettig blijft om naar te kijken.
 
-### Conclusie
-Ik heb ervoor gekozen een combinatie van alle drie de identiteiten te verwerken in het fragment. Ik heb het spannende uit de film door geprobeerd over te laten komen door donkere kleuren te gebruiken (zoals Darice omschreef). Ook heb ik een middenweg gevonden tussen de prettige fijne regels die Darice omschreef en mijn eigen originaliteit. Denk bij de regels die Darice omschreef aan een dubbele punt na een naam en kleuren per personage. Ik heb mijn eigen draai aan deze regels gegeven. Ik heb de sound aanduidingen in sommige gevalen laten bewegen om het tempo van de sound aan te geven. Ook heb ik bepaalde woorden in zinnen een accent gegeven wanneer hier in de film nadruk op werd gelegd. Zo heb ik geprobeerd van de normale regels af te stappen en met "nonsense" meer beleving toe proberen te voegen. 
+#### Conclusie
+Ik heb ervoor gekozen een combinatie van alle drie de identiteiten te verwerken in het fragment. Ik heb het spannende uit de film geprobeerd over te laten komen door donkere kleuren te gebruiken (zoals Darice omschreef). Ook heb ik een middenweg gevonden tussen de prettige fijne regels die Darice omschreef en mijn eigen originaliteit. Denk bij de regels die Darice omschreef aan een dubbele punt na een naam en kleuren per personage. Ik heb mijn eigen draai aan deze regels gegeven. Ik heb de sound aanduidingen in sommige gevalen laten bewegen om het tempo van de sound aan te geven. Ook heb ik bepaalde woorden in zinnen een accent gegeven wanneer hier in de film nadruk op werd gelegd. Zo heb ik geprobeerd van de normale regels af te stappen en met "nonsense" meer beleving toe proberen te voegen. 
 
 Ook heb ik de drie identiteiten gecombineerd in het visueel weergeven van de geluiden. Ik heb ervoor gezorgd dat Darice het geluid kan beleven (Darice), de beweging een spanning creëert (film), maar ook dat de bewegingen out of the box zijn en nieuwe beleving creëren (eigen identiteit).
 
 ## De keuze voor het font "Brenner"
 
-Na met Darice te hebben gesproken over hoe zij het liefst naar een film kijkt heb ik twee bevindingen opgedaan. Ze houd van niet teveel onderscheid in tekst maar wel op momenten door middel van kleur en dikte van de typografie. Nu bevat de film veel verschillende personages, intonaties en typen geluiden. Om deze reden heb ik voor het brenner font gekozen omdat deze veel rijker is aan mogelijkheden. Zo kan ik Darice goed ondersteunen tijdens het kijken van de film door subtiele maar prettige aanpassingen aan de font-style te doen. Brenner ondersteunt mij hier beter in dan een systeem font omdat je goed kan experimenteren met diktes, stijlen en gewichten. Ook zijn er genoeg verschillende elementen om aan te geven. Met Brenner kan ik meer onderscheid in de tekst maken dan met een systeem font. 
+Na met Darice te hebben gesproken over hoe ze het liefst naar een film kijkt, heb ik twee bevindingen opgedaan. Ze houdt van niet teveel onderscheid in tekst maar wel op momenten door middel van kleur en dikte van de typografie. Nu bevat de film veel verschillende personages, intonaties en typen geluiden. Om deze reden heb ik voor het brenner font gekozen omdat deze veel rijker is aan mogelijkheden. Zo kan ik Darice goed ondersteunen tijdens het kijken van de film door subtiele maar prettige aanpassingen aan de font-style te doen. Brenner ondersteunt mij hier beter in dan een systeem font omdat je goed kan experimenteren met diktes, stijlen en gewichten. Ook zijn er genoeg verschillende elementen om aan te geven. Met Brenner kan ik meer onderscheid in de tekst maken dan met een systeem font. 
 Daarnaast zijn niet alle systeem fonts erg aantrekkelijk als ondertiteling en vind ik Brenner beter passen bij een spannend fragment. Zeker de slab en display variant zijn prettig voor het oog maar ook goed voor een wat spannendere film wanneer je het mij vraagt.
 
 
 ## De eindversie, wat heb ik allemaal met het fragment gedaan en waarom?
 
-Zoals ik eerder al een beetje omschreef heb ik de standaard regels een beetje aangepast. Ik heb subtiele manieren gezocht om toch met de gebruikelijke captions [] waarde toe te voegen aan het fragment. Hieronder heb ik opgesomd wat ik allemaal aan het fragment heb veranderd en waarom: 
+Zoals ik eerder al een beetje omschreef, heb ik de standaard regels een beetje aangepast. Ik heb subtiele manieren gezocht om toch met de gebruikelijke captions [] waarde toe te voegen aan het fragment. Hieronder heb ik opgesomd wat ik allemaal aan het fragment heb veranderd en waarom: 
 
 ### 1. De teksten van de personages
 Ik heb elk personage een eigen kleur gegeven. Ik heb de namen van deze personages in deze kleur voor aan de zin weegegeven. Op deze manier kan Darice aan kleur herkenning zien wie er praat. 
@@ -49,7 +49,7 @@ Ik heb elk personage een eigen kleur gegeven. Ik heb de namen van deze personage
 Ook heb ik de typografie van de tekst per personage aangepast. 
 1. De teskst van *Constant K* is in *brenner sans* geschreven. Dit is namelijk een wat neutralere stijl van het font en dit personage heeft vrijwel de meeste zinnen in het fragment. Om deze reden heb ik hem de duidelijkste stijl van het font gegeven. 
 
-2. De *voice* die tegen Constant praat heb ik *brenner sans light italic* gegeven. Dit is een niet al te afwijkende stijl van de tekst van Constant. Dit heb ik bewust gedaan. Ik heb de tekst light en italic gemaakt zodat deze tekst er ook overkomt als een intercom en een "extern" geluid buiten het shot. Door de tekst schuin te zetten hoop ik het gevoel te creëren dat deze stem van een persoon komt die zicht ergens anders bevindt en zich bij wijze van spreken door een walkie talkie verstaanbaar maakt. 
+2. De *voice* die tegen Constant praat heb ik *brenner sans light italic* gegeven. Dit is een niet al te afwijkende stijl van de tekst van Constant. Dit heb ik bewust gedaan. Ik heb de tekst light en italic gemaakt zodat deze tekst er ook overkomt als een intercom en een "extern" geluid buiten het shot. Door de tekst schuin te zetten hoop ik het gevoel te creëren dat deze stem van een persoon komt die zich ergens anders bevindt en zich bij wijze van spreken door een walkie talkie verstaanbaar maakt. 
 
 3. Er is een *man* binnen dit fragment met één zin. Ook hij heeft een eigen kleur gegeven en een eigen aanduiding. Ook heb ik met zijn tekst gespeeld omdat hij zijn zin fluisterend maar erg indringend zegt. De woorden  "Fuck Off" zegt hij harder dan de rest van de zin. Om deze reden heb ik deze woorden anders gestijld. Deze woorden zijn namelijk brenner slab bold. Hierdoor zijn de letters groter, dikker en heftiger. Ook heb ik de kleur van deze woorden "darkgoldenrod" gemaakt. Hierdoor vallen ze nog erger op. De rest van de zin is net zoals de intercom voice *brenner sans light italic*. Hierdoor is hoop ik duidelijk te laten zien dat de tekst niet door Constant gezegd wordt maar door de man die langs loopt. 
 
@@ -91,20 +91,20 @@ De tweede keer dat ik clip-path heb gebruikt is bij de ringtone in scene twee. H
 
 
 
-## 3. Verwerkte feedback
+## Verwerkte feedback
 
 #### Feedback gesprek 1
 De eerste feedback sessie is goed verlopen. Deze sessie kwam vrij snel na de kickoff en om deze reden was ik nog niet heel erg begonnen aan het animeren van het beeld maar wel aan het opmaken van de tekst. Van Vasilis kreeg ik de tip om sound namen toe te voegen en meer met tekst groottes te werken. Dit heb ik dan ook gedaan. Ik heb de tekst van de "man" in de video namelijk gestijld zodat er meer nadruk ligt op hoe hij dit heeft gezegd. Veel andere tekst heb ik gelaten zoals het was. Dit heb ik gedaan omdat ik vond dat het animeren van die woorden niet veel waarde toe zou voegen aan de betekenis van de zin en ook niet uit zou kunnen beelden hoe de zin werd gezegd. 
 
-Van Darice kreeg ik ook de tip om voor de geluiden closed captions neer te zetten. Ook vond zij dat de tekst van de man inderdaad meer bewerkt kon worden zodat ze echt kon zien hoe de tekst wordt gezegd.
+Van Darice kreeg ik ook de tip om voor de geluiden closed captions neer te zetten. Ook vond ze dat de tekst van de man inderdaad meer bewerkt kon worden zodat ze echt kon zien hoe de tekst wordt gezegd.
 
 #### Feedback gesprek 2
 
 Voor het tweede feedback gesprek had ik mijzelf al goed voorbereid. Ik had heel fragment een bewerkt en geanimeerd zodat ik echt goede feedback daarop kon ontvangen. Deze heb ik dan ook gekregen. Vasilis zei dat de cirkel die de pieptoon aangeeft sneller weer naar zwart mag springen aan het eind van het geluid. Het is namelijk een harde overgang. Darice zei over hetzelfde deel dat de closed caption van dat moment een iets donkerdere schaduw zou mogen krijgen omdat hij op deze manier nog niet was opgevallen. 
 
-## 4. Principes verwerkt in mijn eindversie
+## Principes verwerkt in mijn eindversie
 
-Om alles even samen te vatten heb ik hieronder de lijst met principes. Ik zal even kort en bondig per principe uitleggen wat ik heb gedaan om dit in mijn eindversie te verwerken. 
+Om even samen te vatten heb ik hieronder de lijst met principes. Ik zal even kort per principe uitleggen wat ik heb gedaan om dit in mijn eindversie te verwerken. 
 
 1. Study situation 
 2. Ignore conventions
