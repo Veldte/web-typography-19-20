@@ -58,6 +58,9 @@ Ook heb ik de typografie van de tekst per personage aangepast.
 - Voice: "Orange"
 - Man: "Olivedrab"
 
+5. In fragment twee heb ik ook nog iets aan styling aangepast. De voice die Constant K praat, spreekt in dit fragment in een andere toon. Hij klinkt wat doordringender en legt de nadruk op bepaalde woorden. Om deze reden heb ik bepaalde woorden door middel van spans aangepast om die nadruk en vervelende toon uit te beelden. Ik heb deze woorden het font *brenner sans condensed regular* gegeven. Dit font is zoals de naam al zegt "condensed" en dus krap. Er is weinig tussenruimte tussen de letters wat ietwat benauwend overkomt. Dit is ook precies de bedoeling omdat deze voice zo ook spreekt. 
+
+
 ### 2. Aanduidingen van de sounds
 
 #### De tekst van de sounds
@@ -201,9 +204,10 @@ Mijn typografie was in versie een goed geordend maar misschien nog wel erg netje
 Om extra gevoel en ritme toe te voegen aan de beleving van de geluiden heb ik de closed captions hiervan laten bewegen en animeren. Zo heb ik bijvoorbeeld bij sound een (de thrilling low drum) de caption groter en kleiner laten worden op de maat van de drum. Zo hoop ik dat het ritme duidelijker is. Ook heb ik bij de scene van het verhoor in fragment één de caption steeds iets groter laten worden naarmate de toon sterker en luider wordt. In fragment twee is een hele sterke toon aanwezig. Een onderliggende maar doordringende toon. Deze toon heb ik door middel van het groter en kleiner worden van de caption op de maat en het groter en kleiner worden van de iframe op de maat aan proberen te geven. Het is een lange toon die niet erg duidelijk omschreven kan worden, daarom probeer ik deze toon te laten ervaren. 
 
 ## Aanpassing 2: Fragment 2
-Zoals ik net al omschreef ben ik begonnen aan fragment twee. Ik heb mij hier gericht op het animeren van de sounds en niet van de gezegde tekst, daar had ik geen tijd meer voor. Ook heb ik hier een nieuw element toegepast; namelijk de blur. Deze is erg bruikbaar op het moment dat de indringende muziek stopt er een hele kille stilte ontstaat. Dit voelt in de film als een reset momentje en met de blur lijkt het er hopelijk ook meer op. 
+Zoals ik net al omschreef ben ik begonnen aan fragment twee. Ik heb mij hier gericht op het animeren van de sounds en de gezegde tekst. Ook heb ik hier een nieuw element toegepast; namelijk de blur. Deze is erg bruikbaar op het moment dat de indringende muziek stopt er een hele kille stilte ontstaat. Dit voelt in de film als een reset momentje en met de blur lijkt het er hopelijk ook meer op. 
 Daarnaast heb ik clip-path toegepast. Deze vond ik erg leuk op het moment dat er een soort ringtoon afgaat bij de vrouw op het hoofdkantoor. Zo lijkt het geluid hopelijk wat indringender en plaatselijk. Dit is ook wat het geluid in mijn ogen is. 
 
+ De voice die Constant K praat, spreekt in dit fragment in een andere toon. Hij klinkt wat doordringender en legt de nadruk op bepaalde woorden. Om deze reden heb ik bepaalde woorden door middel van spans aangepast om die nadruk en vervelende toon uit te beelden. Ik heb deze woorden het font *brenner sans condensed regular* gegeven. Dit font is zoals de naam al zegt "condensed" en dus krap. Er is weinig tussenruimte tussen de letters wat ietwat benauwend overkomt. Dit is ook precies de bedoeling omdat deze voice zo ook spreekt. 
 
 ## Aanpassing 3: Het toevoegen van een GIF
 Ik stuitte tijdens het animeren vaker op het benoemen van geluiden. Ik kwam in fragment een geluid tegen dat ik alleen maar kon benoemen als " Alarm". Toch zijn er talloze soorten alarmen. Ik bedacht dat ik daarom een gifje wilde toevoegen voor waar iedereen dit geluid mee associeert. Namelijk een dikke rode lichtgevende bol waarvan het licht rondjes draait. (Kijk maar in de video als je niet snapt wat ik bedoel). Dit leek mij een geschikte manier om het geluid los van het animeren van de iframe, ook met een gifje duidelijk te maken. Tegelijkertijd was dit ook ongeveer het enige geluid waarmee dit kon. Daarom heb ik dit een enkele keer gedaan, zodat het geen ontwerpstijl zou worden maar een leuke toevoeging. 
