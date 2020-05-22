@@ -58,7 +58,7 @@ Ook heb ik de typografie van de tekst per personage aangepast.
 - Voice: "Orange"
 - Man: "Olivedrab"
 
-5. In fragment twee heb ik ook nog iets aan styling aangepast. De voice die Constant K praat, spreekt in dit fragment in een andere toon. Hij klinkt wat doordringender en legt de nadruk op bepaalde woorden. Om deze reden heb ik bepaalde woorden door middel van spans aangepast om die nadruk en vervelende toon uit te beelden. Ik heb deze woorden het font *brenner sans condensed regular* gegeven. Dit font is zoals de naam al zegt "condensed" en dus krap. Er is weinig tussenruimte tussen de letters wat ietwat benauwend overkomt. Dit is ook precies de bedoeling omdat deze voice zo ook spreekt. 
+5. In fragment twee heb ik ook nog iets aan styling van de tekst aangepast. De voice die Constant K praat, spreekt in dit fragment in een andere toon. Hij klinkt wat doordringender en legt de nadruk op bepaalde woorden. Om deze reden heb ik bepaalde woorden door middel van spans aangepast om die nadruk en vervelende toon uit te beelden. Ik heb deze woorden het font *brenner sans condensed regular* gegeven. Dit font is zoals de naam al zegt "condensed" en dus krap. Er is weinig tussenruimte tussen de letters wat ietwat benauwend overkomt. Dit is ook precies de bedoeling omdat deze voice zo ook spreekt. 
 
 
 ### 2. Aanduidingen van de sounds
