@@ -64,27 +64,31 @@ body {
     font-weight: 200;
 }
 
+/*
+.voice4 {
 
-
-
+    font-family: "brenner sans condensed bold";
+    font-style: italic;
+}
+*/
 
 /*--------------------------------SOUNDS */
+
 /*--------------------------------SOUNDS */
+
 /*--------------------------------SOUNDS */
+
 /*--------------------------------SOUNDS */
 
-
-
-
-
-
-
-/*--------------------------------SOUND TEKST*/
-/*--------------------------------SOUND TEKST*/
-/*--------------------------------SOUND TEKST*/
-/*--------------------------------SOUND TEKST*/
 /*--------------------------------SOUND TEKST*/
 
+/*--------------------------------SOUND TEKST*/
+
+/*--------------------------------SOUND TEKST*/
+
+/*--------------------------------SOUND TEKST*/
+
+/*--------------------------------SOUND TEKST*/
 
 .sound0::before {
     content: "";
@@ -254,17 +258,22 @@ body {
 
 
 /*----------------------------SOUNDS IFRAME EN BEELD ANIMATIES*/
-/*----------------------------SOUNDS IFRAME EN BEELD ANIMATIES*/
-/*----------------------------SOUNDS IFRAME EN BEELD ANIMATIES*/
-/*----------------------------SOUNDS IFRAME EN BEELD ANIMATIES*/
-/*----------------------------SOUNDS IFRAME EN BEELD ANIMATIES*/
-/*----------------------------SOUNDS IFRAME EN BEELD ANIMATIES*/
-/*----------------------------SOUNDS IFRAME EN BEELD ANIMATIES*/
+
 /*----------------------------SOUNDS IFRAME EN BEELD ANIMATIES*/
 
+/*----------------------------SOUNDS IFRAME EN BEELD ANIMATIES*/
+
+/*----------------------------SOUNDS IFRAME EN BEELD ANIMATIES*/
+
+/*----------------------------SOUNDS IFRAME EN BEELD ANIMATIES*/
+
+/*----------------------------SOUNDS IFRAME EN BEELD ANIMATIES*/
+
+/*----------------------------SOUNDS IFRAME EN BEELD ANIMATIES*/
+
+/*----------------------------SOUNDS IFRAME EN BEELD ANIMATIES*/
 
 /*Intro geluid---------------------*/
-
 
 .sound0 iframe {
     transform: scale(1, 1);
@@ -410,10 +419,11 @@ body {
     transform: scale(1, 1);
 }
 
-.sound15 iframe{
-    transform: scale(1,1);
+.sound15 iframe {
+    transform: scale(1, 1);
     animation: zoom 14s;
 }
+
 .sound16 iframe {
     /*    transform: scale(1.2,1.2);*/
     /*    transform: rotate3d(.1,.1,0,40deg);*/
@@ -421,7 +431,7 @@ body {
     animation: driedee 3s;
     transition-duration: 2s;
 */
-    transform: scale(1,1);
+    transform: scale(1, 1);
 }
 
 
@@ -440,7 +450,7 @@ body {
     animation: driedee 3s;
 }
 
-.sound20 iframe{
+.sound20 iframe {
     filter: blur(5px);
 }
 
@@ -448,23 +458,28 @@ body {
 
 
 /*--------------------------------------------KEYFRAMES*/
-/*--------------------------------------------KEYFRAMES*/
-/*--------------------------------------------KEYFRAMES*/
-/*--------------------------------------------KEYFRAMES*/
-/*--------------------------------------------KEYFRAMES*/
-/*--------------------------------------------KEYFRAMES*/
-/*--------------------------------------------KEYFRAMES*/
+
 /*--------------------------------------------KEYFRAMES*/
 
+/*--------------------------------------------KEYFRAMES*/
 
+/*--------------------------------------------KEYFRAMES*/
+
+/*--------------------------------------------KEYFRAMES*/
+
+/*--------------------------------------------KEYFRAMES*/
+
+/*--------------------------------------------KEYFRAMES*/
+
+/*--------------------------------------------KEYFRAMES*/
 
 @keyframes zoom {
     0% {
         transform: scale(1, 1);
     }
-    
-    50%{
-        transform: scale(1.2,1.2);
+
+    50% {
+        transform: scale(1.2, 1.2);
     }
 
     100% {
@@ -599,7 +614,7 @@ body {
 
 @keyframes teksthigh {
     0% {
-        transform: scale(1,1);
+        transform: scale(1, 1);
         color: lightgoldenrodyellow;
     }
 
@@ -611,8 +626,8 @@ body {
     }
 }
 
-@keyframes tekstlow{
-     0% {
+@keyframes tekstlow {
+    0% {
         transform: scale(1.4, 1.4);
         color: white;
         font-size: 1.2em;
@@ -628,7 +643,7 @@ body {
 
 @keyframes drum2 {
     0% {
-        transform: scale(1,1);
+        transform: scale(1, 1);
         color: lightgoldenrodyellow;
     }
 
@@ -945,12 +960,16 @@ body {
 
 
 /*--------------------------------------------ALLE TEKST*/
-/*--------------------------------------------ALLE TEKST*/
-/*--------------------------------------------ALLE TEKST*/
-/*--------------------------------------------ALLE TEKST*/
-/*--------------------------------------------ALLE TEKST*/
+
 /*--------------------------------------------ALLE TEKST*/
 
+/*--------------------------------------------ALLE TEKST*/
+
+/*--------------------------------------------ALLE TEKST*/
+
+/*--------------------------------------------ALLE TEKST*/
+
+/*--------------------------------------------ALLE TEKST*/
 
 /* **********************************************
 The first paragraph, with extended timing for 
@@ -2074,6 +2093,8 @@ You probably want to change the styling.
     margin-left: .5em;
 }
 
+
+
 /*-------------P49-----------voice-----------P49-*/
 
 .p49.on span:first-of-type {
@@ -2153,6 +2174,16 @@ You probably want to change the styling.
     margin-left: .5em;
 }
 
+.p52.on span:nth-of-type(14) {
+    font-family: "brenner sans condensed regular";
+    font-style: italic;
+}
+
+.p52.on span:nth-of-type(15) {
+    font-family: "brenner sans condensed regular";
+    font-style: italic;
+}
+
 /*-------------P51-----------voice-----------P51-*/
 
 .p53.on span:first-of-type {
@@ -2193,6 +2224,20 @@ You probably want to change the styling.
     margin-left: .5em;
 }
 
+.p54.on span:nth-of-type(11) {
+    font-family: "brenner sans condensed regular";
+    font-style: italic;
+}
+
+.p54.on span:nth-of-type(12) {
+    font-family: "brenner sans condensed regular";
+    font-style: italic;
+}
+
+.p54.on span:nth-of-type(13) {
+    font-family: "brenner sans condensed regular";
+    font-style: italic;
+}
 
 /*-------------P50-----------voice-----------P50-*/
 
@@ -2326,6 +2371,21 @@ You probably want to change the styling.
     opacity: 1;
     margin-left: .5em;
 }
+
+.p61.on span:nth-of-type(7) {
+    font-family: "brenner sans condensed regular";
+    font-style: italic;
+}
+.p61.on span:nth-of-type(8) {
+    font-family: "brenner sans condensed regular";
+    font-style: italic;
+}
+
+.p61.on span:nth-of-type(9) {
+    font-family: "brenner sans condensed regular";
+    font-style: italic;
+}
+
 
 /*-------------P50-----------voice-----------P50-*/
 
@@ -2680,6 +2740,10 @@ You probably want to change the styling.
     margin-left: .5em;
 }
 
+.p79.on span:nth-of-type(5) {
+    font-family: "brenner sans condensed regular";
+    font-style: italic;
+}
 /*-------------P50-----------voice-----------P50-*/
 
 .p80.on span:first-of-type {
