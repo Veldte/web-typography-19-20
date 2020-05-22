@@ -91,7 +91,7 @@ De tweede keer dat ik clip-path heb gebruikt is bij de ringtone in scene twee. H
 
 
 
-## 3. Verwerkte feedback
+## Verwerkte feedback
 
 #### Feedback gesprek 1
 De eerste feedback sessie is goed verlopen. Deze sessie kwam vrij snel na de kickoff en om deze reden was ik nog niet heel erg begonnen aan het animeren van het beeld maar wel aan het opmaken van de tekst. Van Vasilis kreeg ik de tip om sound namen toe te voegen en meer met tekst groottes te werken. Dit heb ik dan ook gedaan. Ik heb de tekst van de "man" in de video namelijk gestijld zodat er meer nadruk ligt op hoe hij dit heeft gezegd. Veel andere tekst heb ik gelaten zoals het was. Dit heb ik gedaan omdat ik vond dat het animeren van die woorden niet veel waarde toe zou voegen aan de betekenis van de zin en ook niet uit zou kunnen beelden hoe de zin werd gezegd. 
@@ -102,7 +102,7 @@ Van Darice kreeg ik ook de tip om voor de geluiden closed captions neer te zette
 
 Voor het tweede feedback gesprek had ik mijzelf al goed voorbereid. Ik had heel fragment een bewerkt en geanimeerd zodat ik echt goede feedback daarop kon ontvangen. Deze heb ik dan ook gekregen. Vasilis zei dat de cirkel die de pieptoon aangeeft sneller weer naar zwart mag springen aan het eind van het geluid. Het is namelijk een harde overgang. Darice zei over hetzelfde deel dat de closed caption van dat moment een iets donkerdere schaduw zou mogen krijgen omdat hij op deze manier nog niet was opgevallen. 
 
-## 4. Principes verwerkt in mijn eindversie
+## Principes verwerkt in mijn eindversie
 
 Om alles even samen te vatten heb ik hieronder de lijst met principes. Ik zal even kort en bondig per principe uitleggen wat ik heb gedaan om dit in mijn eindversie te verwerken. 
 
