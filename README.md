@@ -104,7 +104,8 @@ De eerste feedback sessie is goed verlopen. Deze sessie kwam vrij snel na de kic
 ##### Wat heb ik getest 
 
 [Dit was de versie die ik heb getest](https://veldte.github.io/web-typography-19-20/Versie1/)
-Ik had al wel een paar leuke dingen met het beeld gedaan op bepaalde sounds. Ik wilde testen of deze een beetje waarde toevoegen of dat deze storend waren. Ook wilde ik kijken of de personen duidelijk te onderscheiden zijn of dat dit ergens nog beter of anders kon.
+
+Ik had al wel een paar leuke dingen met het beeld gedaan op bepaalde sounds. Ik wilde testen of deze een beetje waarde toevoegen of dat deze storend waren. Ook wilde ik kijken of de personen duidelijk te onderscheiden zijn of dat dit ergens nog beter of anders kon. Verder stond ik vooral open voor andere op of aanmerkingen.
 
 ##### Wat voor resultaten en feedback heb ik gekregen?
 
