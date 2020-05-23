@@ -2,20 +2,20 @@
 
 ## De opdracht
 
-Voor het vak web-typografie heb ik de opdracht gekregen om de hele beleving van het Blade Runner fragment om te gooien naar iets totaal nieuws voor doven. De hele beleving van een film valt weg wanneer er niet wordt aangegeven wie er praat en wat voor geluid er speelt. En dit is precies het belangrijkste deel van een film. Daarom focust deze opdracht zich op het visueel maken van sounds en voices binnen deze twee scenes uit de film Blade Runner. Hierbij mag ik experimenteren en ver gaan, lekker kijken wat werkt. 
+Voor het vak web-typografie heb ik de opdracht gekregen om de hele beleving van het Blade Runner fragment om te gooien naar iets totaal nieuws voor doven. De hele beleving van een film valt weg wanneer er niet wordt aangegeven wie er praat en wat voor geluid er speelt. En dit is vaak precies het belangrijkste deel van een film. Daarom focust deze opdracht zich op het visueel maken van sounds en voices binnen deze twee scenes uit de film Blade Runner. Hierbij mag ik experimenteren en ver gaan, lekker kijken wat werkt. 
 [Demo van de eindversie](https://veldte.github.io/web-typography-19-20/versie3/)
 
-* Dit deel van de readme gaat over mijn eindresultaat. Voor wat ik per versie heb toegepast zie onderaan deze readme *
+- *Dit deel van de readme gaat over mijn eindresultaat. Voor wat ik per versie heb toegepast zie onderaan deze readme*
 
 ## Gesprekken met Darice
 
 Voor deze opdracht is het erg belangrijk dat je onderzoekt wat de identiteiten zijn. Dit zijn er in deze opdracht drie: Darice, de film en ikzelf. Hiervoor heb ik in een gesprekje geprobeerd Darice een beetje beter te leren kennen. Ik heb naar haar gevraagd maar ook naar haar ervaring met het kijken van films. Hieruit heb ik een aantal belangrijke punten gehaald.
 
-1. Volgens Darice is een film spannend wanneer het donker is maar ook wanneer de geluiden goed worden aangegeven. Darice gaf aan dat een geluid niet sterk overkomt wanneer er alleen een woord wordt gegeven. Dit zette mij aan het denken om iets met het gehele beeld van de video te doen.
+1. Volgens Darice is een film spannend wanneer het donker is maar ook wanneer de geluiden goed worden aangegeven. Darice gaf aan dat een geluid niet sterk overkomt wanneer er alleen een woord wordt gegeven. Dit heeft mij aan het denken gezet om iets met het gehele beeld van de video te doen.
 
-2. Toch gaf Darice wel aan dat er een paar standaard regels zijn binnen de closed captions waar ze erg aan gewend is inmiddels. Ze zei namelijk dat het aangeven van namen het beste werkt met een dubbele punt en een kleurtje. 
+2. Toch gaf Darice wel aan dat er een paar standaard regels zijn binnen de closed captions waar ze erg aan gewend is inmiddels. Ze zei namelijk dat het aangeven van namen het beste werkt met een dubbele punt en eventueel een kleurtje. 
 
-3. Ook zei ze dat consistentie hierin belangrijker is dan wat dan ook. Wanneer je iemand een kleurtje geeft weet ze altijd aan alleen al de kleur te herkennen wie praat. Zo hoeft ze niet altijd de naam te lezen. Dit geldt ook voor omgevingsgeluid zei Darice, ook dat zou dan een eigen kleur moeten krijgen. 
+3. Ook zei ze dat consistentie hierin belangrijker is dan wat dan ook. Wanneer je een personage, type geluid etc. een kleurtje geeft weet ze altijd aan alleen al de kleur te herkennen wie praat. Zo hoeft ze niet altijd de naam te lezen. Dit is precies de reden dar je hier consistent moet zijn, ze leest de kleuren als het ware ook. Dit geldt ook voor omgevingsgeluid zei Darice, ook dat zou dan een eigen kleur moeten krijgen. 
 
 4. Het laatste belangrijke inzicht dat ik uit het gesprek met Darice heb gekregen is dat het super belangrijk is om aan te geven wie of wat er geluid maakt wanneer dit niet duidelijk op beeld te zien is. Als doof persoon is dit namelijk niet te raden.
 
@@ -42,7 +42,7 @@ Daarnaast zijn niet alle systeem fonts erg aantrekkelijk als ondertiteling en vi
 
 ## De eindversie, wat heb ik allemaal met het fragment gedaan en waarom?
 
-Zoals ik eerder al een beetje omschreef, heb ik de standaard regels een beetje aangepast. Ik heb subtiele manieren gezocht om toch met de gebruikelijke captions [] waarde toe te voegen aan het fragment. Hieronder heb ik opgesomd wat ik allemaal aan het fragment heb veranderd en waarom: 
+Zoals ik eerder al een beetje omschreef, heb ik de standaard regels  behoorlijk aangepast. Ik heb manieren gezocht om toch met de gebruikelijke captions [] en bestaande regels, op een nieuwe manier waarde toe te voegen aan het fragment. Soms zijn deze manieren subtieler dan andere bij andere stukjes. Hieronder heb ik opgesomd wat ik allemaal aan het fragment heb veranderd en waarom: 
 
 ### 1. De teksten van de personages
 Ik heb elk personage een eigen kleur gegeven. Ik heb de namen van deze personages in deze kleur voor aan de zin weegegeven. Op deze manier kan Darice aan kleur herkenning zien wie er praat. 
@@ -50,7 +50,7 @@ Ik heb elk personage een eigen kleur gegeven. Ik heb de namen van deze personage
 Ook heb ik de typografie van de tekst per personage aangepast. 
 1. De teskst van *Constant K* is in *brenner sans* geschreven. Dit is namelijk een wat neutralere stijl van het font en dit personage heeft vrijwel de meeste zinnen in het fragment. Om deze reden heb ik hem de duidelijkste stijl van het font gegeven. 
 
-2. De *voice* die tegen Constant praat heb ik *brenner sans light italic* gegeven. Dit is een niet al te afwijkende stijl van de tekst van Constant. Dit heb ik bewust gedaan. Ik heb de tekst light en italic gemaakt zodat deze tekst er ook overkomt als een intercom en een "extern" geluid buiten het shot. Door de tekst schuin te zetten hoop ik het gevoel te creëren dat deze stem van een persoon komt die zich ergens anders bevindt en zich bij wijze van spreken door een walkie talkie verstaanbaar maakt. 
+2. De *voice* die tegen Constant praat heb ik *brenner sans light italic* gegeven. Dit is net als de tekst van constant goed te lezen maar is daarnaast ook duidelijk van zijn tekst te onderscheiden. Ik heb de tekst light en italic gemaakt zodat deze tekst er ook overkomt als een intercom en een "extern" geluid buiten het shot. Door de tekst schuin te zetten hoop ik het gevoel te creëren dat deze stem van een persoon komt die zich ergens anders bevindt en zich bij wijze van spreken door een walkie talkie verstaanbaar maakt. 
 
 3. Er is een *man* binnen dit fragment met één zin. Ook hij heeft een eigen kleur gegeven en een eigen aanduiding. Ook heb ik met zijn tekst gespeeld omdat hij zijn zin fluisterend maar erg indringend zegt. De woorden  "Fuck Off" zegt hij harder dan de rest van de zin. Om deze reden heb ik deze woorden anders gestijld. Deze woorden zijn namelijk brenner slab bold. Hierdoor zijn de letters groter, dikker en heftiger. Ook heb ik de kleur van deze woorden "darkgoldenrod" gemaakt. Hierdoor vallen ze nog erger op. De rest van de zin is net zoals de intercom voice *brenner sans light italic*. Hierdoor is hoop ik duidelijk te laten zien dat de tekst niet door Constant gezegd wordt maar door de man die langs loopt. 
 
