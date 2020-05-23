@@ -65,7 +65,8 @@ Ook heb ik de typografie van de tekst per personage aangepast.
 ### 2. Aanduidingen van de sounds
 
 #### De tekst van de sounds
-Ook de sounds heb ik met woorden aangegeven. Zo heeft Darice een omschrijving van wat voor soort geluid dit is. Deze tekst is in *brenner mono medium* geschreven. Dit is namelijk een duidelijke en onderscheidende stijl van de rest van de tekst in de video. Deze tekst is namelijk wat dikker en duidelijker wanneer je deze gebruikt voor het weergeven van één woord zoals "Buzzer". Maar ook duidelijk voor korte zinnen als "Thrilling low drum". Naast het kiezen voor deze tekst stijl heb ik er ook voor gekozen deze sounds in kapitalen te schrijven. Omdat geen enkele andere tekst in het fragment in volledig kapitalen is geschreven zal deze tekst door haar grootte en dikte erg opvallen op de korte momenten van de sounds. Al om al heb ik geprobeerd om met de medium variant (dus dikke letters) en de kapitalen een directe focus te vragen van de kijker. Ook hoop ik dat de animaties op de geluiden dit versterkt. 
+Ook de sounds heb ik met woorden aangegeven. Zo heeft Darice een omschrijving van wat voor soort geluid dit is. Deze tekst is in *brenner mono medium* geschreven. Dit is namelijk een duidelijke en onderscheidende stijl van de rest van de tekst in de video. Deze tekst is namelijk wat dikker en duidelijker wanneer je deze gebruikt voor het weergeven van één woord zoals "Buzzer". Maar ook duidelijk voor korte zinnen als "Thrilling low drum". 
+Naast het kiezen voor deze tekst stijl heb ik er ook voor gekozen deze sounds in kapitalen te schrijven. Omdat geen enkele andere tekst in het fragment in volledig kapitalen is geschreven zal deze tekst door de grootte en dikte erg opvallen op de korte momenten van de sounds. Al om al heb ik geprobeerd om met de medium variant (dus dikke letters) en de kapitalen een directe focus te vragen van de kijker. Ook hoop ik dat de animaties op de geluiden dit versterkt. 
 
 #### Animeren van de tekst van de sounds
 
@@ -83,7 +84,7 @@ Ook het iframe heb ik aangepast en laten bewegen. Door hiermee te spelen op de m
 
 1. *Scale*: Ik heb het iframe gescaled. Door dit te doen hoop ik de kijker meer in het beeld te zuigen. Ook maak ik tijdens het scalen soms de achtergrond een andere kleur (bijvoorbeeld rood) zodat de animatie lijkt op een alarm.
 
-2. *Clippath*: Clip-path heb ik twee keer gebruikt. De eerste keer heb ik dit gebruikt om in scene een de lange harde toon weer te geven. Hoe groter de cirkel met clip-path wordt, des te harder het geluid. Om dit nog duidelijker te maken wordt de sound aanduiding: [HIGH PEEPTONE GETTING LOUDER] ook steeds groter naarmate het geluid luider wordt. 
+2. *Clip-path*: Clip-path heb ik twee keer gebruikt. De eerste keer heb ik dit gebruikt om in scene een de lange harde toon weer te geven. Hoe groter de cirkel met clip-path wordt, des te harder het geluid. Om dit nog duidelijker te maken wordt de sound aanduiding: [HIGH PEEPTONE GETTING LOUDER] ook steeds groter naarmate het geluid luider wordt. 
 De tweede keer dat ik clip-path heb gebruikt is bij de ringtone in scene twee. Hier wil ik met de cirkel en het trillen van de iframe aangeven dat het geluid kort, plaatselijk en intens is. 
 
 3. *Rotate*: Rotate heb ik veel gebruikt op de momenten dat het scherm moest trillen. Door met Keyframes om de 10% een nieuwe rotate translate neer te zetten lijkt het alsof het scherm trilt. 
