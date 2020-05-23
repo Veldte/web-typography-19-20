@@ -82,7 +82,7 @@ Ook de korte omschrijvende zinnetjes van de sounds heb ik met keyframes geanimee
 
 Ook het iframe heb ik aangepast en laten bewegen. Door hiermee te spelen op de momenten dat een sound wordt aangeroepen probeer ik de sound wat meer uit te beelden. Ik heb de volgende dingen gedaan met het iframe:
 
-1. *Scale*: Ik heb het iframe gescaled. Door dit te doen hoop ik de kijker meer in het beeld te zuigen. Ook maak ik tijdens het scalen soms de achtergrond een andere kleur (bijvoorbeeld rood) zodat de animatie lijkt op een alarm.
+1. *Scale*: Ik heb het iframe gescaled. Door dit te doen hoop ik de kijker meer in het beeld te zuigen. Ook maak ik tijdens het scalen soms de achtergrond een andere kleur (bijvoorbeeld rood) zodat de animatie lijkt op een alarm. 
 
 2. *Clip-path*: Clip-path heb ik twee keer gebruikt. De eerste keer heb ik dit gebruikt om in scene een de lange harde toon weer te geven. Hoe groter de cirkel met clip-path wordt, des te harder het geluid. Om dit nog duidelijker te maken wordt de sound aanduiding: [HIGH PEEPTONE GETTING LOUDER] ook steeds groter naarmate het geluid luider wordt. 
 De tweede keer dat ik clip-path heb gebruikt is bij de ringtone in scene twee. Hier wil ik met de cirkel en het trillen van de iframe aangeven dat het geluid kort, plaatselijk en intens is. 
@@ -92,20 +92,43 @@ De tweede keer dat ik clip-path heb gebruikt is bij de ringtone in scene twee. H
 4. *Filter*: Het filter effect heb ik gebruikt om het scherm op een buzzer geluid in negatieven om te zetten. Ook heb ik deze tag gebruikt om aan het eind van scene twee aan te geven dat het geluid langzaam weggaat en een fade-out heeft. Dit heb ik gedaan met een blur. Ik denk dat een blur effect ervoor zorgt dat je weer even scherp moet stellen en er dus een nieuwe situatie is ontstaan, in dit geval eentje zonder geluid. 
 
 
-5. *Background en GIF*: Naast het animeren van de Iframe heb ik ook tegelijkertijd de achtergrond van kleur laten veranderen en in één enkel geval een GIF toegevoegd ter verduidelijking. Zo probeer ik met de kleur een associatie te wekken met het type geluid. Een harde hoge toon heb ik bijvoorbeeld aangegeven met de kleur wit omdat dit verwijst naar "White noice" oftewel een harde pieptoon. Ondanks dat het geluid misschien niet precies klinkt als een harde white noise pieptoon, is dit wel waar het geluid het meest mee vergeleken kan worden.
+5. *Background-color en GIF*: Naast het animeren van de Iframe heb ik ook tegelijkertijd de achtergrond van kleur laten veranderen en in één enkel geval een GIF toegevoegd ter verduidelijking. Zo probeer ik met de kleur een associatie op te wekken met het type geluid. Een harde hoge toon heb ik bijvoorbeeld aangegeven met de kleur wit omdat dit verwijst naar "White noice" oftewel een harde pieptoon. Ondanks dat het geluid misschien niet precies klinkt als een harde white noise pieptoon, is dit wel waar het geluid het meest mee vergeleken kan worden.
 
 
 
 ## Verwerkte feedback
 
 #### Feedback gesprek 1
-De eerste feedback sessie is goed verlopen. Deze sessie kwam vrij snel na de kickoff en om deze reden was ik nog niet heel erg begonnen aan het animeren van het beeld maar wel aan het opmaken van de tekst. Van Vasilis kreeg ik de tip om sound namen toe te voegen en meer met tekst groottes te werken. Dit heb ik dan ook gedaan. Ik heb de tekst van de "man" in de video namelijk gestijld zodat er meer nadruk ligt op hoe hij dit heeft gezegd. Veel andere tekst heb ik gelaten zoals het was. Dit heb ik gedaan omdat ik vond dat het animeren van die woorden niet veel waarde toe zou voegen aan de betekenis van de zin en ook niet uit zou kunnen beelden hoe de zin werd gezegd. 
+De eerste feedback sessie is goed verlopen. Deze sessie kwam vrij snel na de kickoff en om deze reden was ik nog niet heel erg begonnen aan het animeren van het beeld maar wel aan het opmaken van de tekst.
 
-Van Darice kreeg ik ook de tip om voor de geluiden closed captions neer te zetten. Ook vond ze dat de tekst van de man inderdaad meer bewerkt kon worden zodat ze echt kon zien hoe de tekst wordt gezegd.
+##### Wat heb ik getest 
+
+[Dit was de versie die ik heb getest](https://veldte.github.io/web-typography-19-20/Versie1/)
+Ik had al wel een paar leuke dingen met het beeld gedaan op bepaalde sounds. Ik wilde testen of deze een beetje waarde toevoegen of dat deze storend waren. Ook wilde ik kijken of de personen duidelijk te onderscheiden zijn of dat dit ergens nog beter of anders kon.
+
+##### Wat voor resultaten en feedback heb ik gekregen?
+
+Van Vasilis kreeg ik de tip om sound namen toe te voegen en meer met tekst groottes te werken. Dit heb ik dan ook gedaan. Ik heb de tekst van de "man" in de video namelijk gestijld zodat er meer nadruk ligt op hoe hij dit heeft gezegd. Dit is te zien in de volgende versie die ik heb getest. Veel andere tekst heb ik gelaten zoals het was. Dit heb ik gedaan omdat ik vond dat het animeren van die woorden niet veel waarde toe zou voegen aan de betekenis van de zin en ook niet uit zou kunnen beelden hoe de zin werd gezegd. 
+
+Van Darice kreeg ik ook de tip om voor de geluiden closed captions neer te zetten. Ook vond ze dat de tekst van de man inderdaad meer bewerkt kon worden zodat ze echt kon zien hoe de tekst wordt gezegd. Ook waren er nog een paar zinnen aan het einde van fragment één waar ze graag nog een naam voor zou willen zien. Voor haar was het nog niet helemaal duidelijk wie er sprak.  Ook miste ze nog tekstuele aanduidingen van de sounds, ze zei dat visuele animaties in combinatie met tekstuele aanduidingen sterker zou werken dan alleen visuele animaties.
 
 #### Feedback gesprek 2
 
-Voor het tweede feedback gesprek had ik mijzelf al goed voorbereid. Ik had heel fragment een bewerkt en geanimeerd zodat ik echt goede feedback daarop kon ontvangen. Deze heb ik dan ook gekregen. Vasilis zei dat de cirkel die de pieptoon aangeeft sneller weer naar zwart mag springen aan het eind van het geluid. Het is namelijk een harde overgang. Darice zei over hetzelfde deel dat de closed caption van dat moment een iets donkerdere schaduw zou mogen krijgen omdat hij op deze manier nog niet was opgevallen. 
+Voor het tweede feedback gesprek had ik mijzelf al goed voorbereid. Ik had heel fragment een bewerkt en geanimeerd zodat ik echt goede feedback daarop kon ontvangen. Deze heb ik dan ook gekregen.
+
+##### Wat heb ik getest 
+
+- *Ik heb helaas niet helemaal de versie meer die ik hier getest heb omdat ik de aanpassingen per ongluk in deze versie ook heb verwerkt8
+
+[De geteste versie (plus aanpassingen) ](https://veldte.github.io/web-typography-19-20/versie3/)
+
+Zoals ik net al omschreef was ik al erg ver met het animeren van het fragment toen ik voor de tweede keer ging testen. Mijn doel van deze test was om te kijken of het opbouwende hoge geluid in fragment één qua visuals nu sterk overkomt en prettig is om naar te kijken. Ook wilde ik testen of de animaties op de closed captions van de sounds (zoals het kloppen van de "thrilling low drum") een fijne maar ook leuke toevoeging was. Verder had ik de tekst van de man "Fuck off, skin job" een andere style gegeven. Ook dit wilde ik testen. 
+
+##### Wat voor resultaten en feedback heb ik gekregen?
+
+Vasilis zei dat de cirkel die de pieptoon aangeeft sneller weer naar zwart mag springen aan het eind van het geluid. Het is namelijk een harde overgang. Verder had ik goed moet de tekst gespeeld en zaten er volgens Vasilis goede experimenten in mijn uitwerking.
+
+Darice zei over hetzelfde deel dat de closed caption van dat moment een iets donkerdere schaduw zou mogen krijgen omdat hij op deze manier nog niet was opgevallen. Ze vond de cirkel die de pieptoon aangeeft een erg leuke en prettige manier om aan te geven dat een geluid harder en intenser wordt. 
 
 ## Principes verwerkt in mijn eindversie
 
