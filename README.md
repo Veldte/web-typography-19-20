@@ -45,7 +45,7 @@ Daarnaast zijn niet alle systeem fonts erg aantrekkelijk als ondertiteling en vi
 Zoals ik eerder al een beetje omschreef, heb ik de standaard regels  behoorlijk aangepast. Ik heb manieren gezocht om toch met de gebruikelijke captions [] en bestaande regels, op een nieuwe manier waarde toe te voegen aan het fragment. Soms zijn deze manieren subtieler dan andere bij andere stukjes. Hieronder heb ik opgesomd wat ik allemaal aan het fragment heb veranderd en waarom: 
 
 ### 1. De teksten van de personages
-Ik heb elk personage een eigen kleur gegeven. Ik heb de namen van deze personages in deze kleur voor aan de zin weegegeven. Op deze manier kan Darice aan kleur herkenning zien wie er praat. 
+Ik heb elk personage een eigen kleur gegeven. De namen van deze personages heb ik in deze kleur vooraan de zin weegegeven. Op deze manier kan Darice aan kleur herkenning zien wie er praat. 
 
 Ook heb ik de typografie van de tekst per personage aangepast. 
 1. De teskst van *Constant K* is in *brenner sans* geschreven. Dit is namelijk een wat neutralere stijl van het font en dit personage heeft vrijwel de meeste zinnen in het fragment. Om deze reden heb ik hem de duidelijkste stijl van het font gegeven. 
