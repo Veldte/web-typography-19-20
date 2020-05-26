@@ -98,7 +98,7 @@ De tweede keer dat ik clip-path heb gebruikt is bij de ringtone in scene twee. H
 
 ## Tests en verwerkte feedback 
 
-#### Feedback gesprek 1
+### Feedback gesprek 1
 De eerste feedback sessie is goed verlopen. Deze sessie kwam vrij snel na de kickoff en om deze reden was ik nog niet heel erg begonnen aan het animeren van het beeld maar wel aan het opmaken van de tekst.
 
 ##### Wat heb ik getest 
@@ -115,7 +115,7 @@ Van Darice kreeg ik ook de tip om voor de geluiden closed captions neer te zette
 
 
 
-#### Feedback gesprek 2
+### Feedback gesprek 2
 
 Voor het tweede feedback gesprek had ik mijzelf al goed voorbereid. Ik had heel fragment een bewerkt en geanimeerd zodat ik echt goede feedback daarop kon ontvangen. Deze heb ik dan ook gekregen.
 
