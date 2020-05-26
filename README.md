@@ -159,7 +159,7 @@ Om even samen te vatten heb ik hieronder de lijst met principes. Ik zal even kor
 4. *Add nonsense* : Het toevoegen van onzin was misschien wel het leukste om te doen. Het lijkt mij duidelijk dat dit ook automatisch binnen deze opdracht gebeurd. Het trillen van een scherm, het toepassen van clip-path en ga zo maar door, zijn allemaal dingen die in de normale uitwerking van een doven audio onzin zouden zijn. Alleen al het aanpassen van het schermformaat en het toevoegen  van een alarm gifje zijn dingen die normaal gesproken onzin zijn. Ik ben er wel over uit dat het toevoegen van onzin een enorm leuke manier is om iets tofs te maken. Het maakt je project hoe dan ook een stuk origineler.
 
 ## Bronnen
-Ik ben geen wizard, maar ik houd wel van code. Toch heb ik een heleboel artikelen en websites geraadpleegd ter inspiratie en informatie. Ik heb ze hieronder allemaal neergezet. 
+Ik ben geen wizard, maar ik houd wel van code. Toch heb ik een meerdere artikelen en websites geraadpleegd ter inspiratie en ter informatie. Ik heb ze hieronder allemaal neergezet. 
 
 - https://www.w3schools.com/howto/howto_css_image_effects.asp
 - https://www.c-sharpcorner.com/UploadFile/cd80b9/creating-3d-animation-in-html5/
