@@ -121,7 +121,7 @@ Voor het tweede feedback gesprek had ik mijzelf al goed voorbereid. Ik had heel 
 
 ##### Wat heb ik getest 
 
-- *Ik heb helaas niet helemaal de versie meer die ik hier getest heb omdat ik de aanpassingen per ongluk in deze versie ook heb verwerkt8
+- *Ik heb helaas niet helemaal de versie meer die ik hier getest heb omdat ik de aanpassingen per ongluk in deze versie ook heb verwerkt*
 
 [De geteste versie (plus aanpassingen) ](https://veldte.github.io/web-typography-19-20/versie3/)
 
