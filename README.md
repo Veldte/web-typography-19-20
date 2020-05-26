@@ -107,11 +107,13 @@ De eerste feedback sessie is goed verlopen. Deze sessie kwam vrij snel na de kic
 
 Ik had al wel een paar leuke dingen met het beeld gedaan op bepaalde sounds. Ik wilde testen of deze een beetje waarde toevoegen of dat deze storend waren. Ook wilde ik kijken of de personen duidelijk te onderscheiden zijn of dat dit ergens nog beter of anders kon. Verder stond ik vooral open voor andere op of aanmerkingen.
 
-##### Wat voor resultaten en feedback heb ik gekregen?
+##### Wat voor resultaten en feedback heb ik gekregen? Wat heb ik hiervan verwerkt?
 
 Van Vasilis kreeg ik de tip om sound namen toe te voegen en meer met tekst groottes te werken. Dit heb ik dan ook gedaan. Ik heb de tekst van de "man" in de video namelijk gestijld zodat er meer nadruk ligt op hoe hij dit heeft gezegd. Dit is te zien in de volgende versie die ik heb getest. Veel andere tekst heb ik gelaten zoals het was. Dit heb ik gedaan omdat ik vond dat het animeren van die woorden niet veel waarde toe zou voegen aan de betekenis van de zin en ook niet uit zou kunnen beelden hoe de zin werd gezegd. 
 
 Van Darice kreeg ik ook de tip om voor de geluiden closed captions neer te zetten. Ook vond ze dat de tekst van de man inderdaad meer bewerkt kon worden zodat ze echt kon zien hoe de tekst wordt gezegd. Ook waren er nog een paar zinnen aan het einde van fragment één waar ze graag nog een naam voor zou willen zien. Voor haar was het nog niet helemaal duidelijk wie er sprak.  Ook miste ze nog tekstuele aanduidingen van de sounds, ze zei dat visuele animaties in combinatie met tekstuele aanduidingen sterker zou werken dan alleen visuele animaties.
+
+
 
 #### Feedback gesprek 2
 
@@ -125,13 +127,17 @@ Voor het tweede feedback gesprek had ik mijzelf al goed voorbereid. Ik had heel 
 
 Zoals ik net al omschreef was ik al erg ver met het animeren van het fragment toen ik voor de tweede keer ging testen. Mijn doel van deze test was om te kijken of het opbouwende hoge geluid in fragment één qua visuals nu sterk overkomt en prettig is om naar te kijken. Ook wilde ik testen of de animaties op de closed captions van de sounds (zoals het kloppen van de "thrilling low drum") een fijne maar ook leuke toevoeging was. Verder had ik de tekst van de man "Fuck off, skin job" een andere style gegeven. Ook dit wilde ik testen. 
 
-##### Wat voor resultaten en feedback heb ik gekregen?
+##### Wat voor resultaten en feedback heb ik gekregen? Wat heb ik hiervan verwerkt?
 
 Vasilis zei dat de cirkel die de pieptoon aangeeft sneller weer naar zwart mag springen aan het eind van het geluid. Het is namelijk een harde overgang. Verder had ik goed moet de tekst gespeeld en zaten er volgens Vasilis goede experimenten in mijn uitwerking.
 
-Darice zei over hetzelfde deel dat de closed caption van dat moment een iets donkerdere schaduw zou mogen krijgen omdat hij op deze manier nog niet was opgevallen. Ze vond de cirkel die de pieptoon aangeeft een erg leuke en prettige manier om aan te geven dat een geluid harder en intenser wordt. 
+Darice zei over hetzelfde deel dat de closed caption van dat moment een iets donkerdere schaduw zou mogen krijgen en de kleur donkerder zou mogen omdat de tekst op deze manier nog niet was opgevallen. Ze vond de cirkel die de pieptoon aangeeft een erg leuke en prettige manier om aan te geven dat een geluid harder en intenser wordt. 
 
 Verder waren de geluid aanduidingen en de animaties op de closed captions volgens darice duidelijk en een leuke toevoeging. Ik kon hier in fragment twee nog meer mee doen.
+
+- Wat heb ik hiervan verwerkt?
+Ik heb de feedback van Darice meegenomen maar niet volledig zo verwerkt. Ik heb namelijk de shaduw donkerder gemaakt maar de tekst wit gelaten. Ik vond namelijk dat de sound met alleen een donkerdere schadow een beter contrast geeft op de witte achtergrond. Wanneer ik deze donker zou maken zou dit niet meer consistent zijn met de andere sound captions en was ik bang dat deze caption niet zou opvallen als een caption.
+
 
 ## Principes verwerkt in mijn eindversie
 
