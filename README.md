@@ -48,7 +48,7 @@ Zoals ik eerder al een beetje omschreef, heb ik de standaard regels  behoorlijk 
 Ik heb elk personage een eigen kleur gegeven. De namen van deze personages heb ik in deze kleur vooraan de zin weegegeven. Op deze manier kan Darice aan kleur herkenning zien wie er praat. 
 
 Ook heb ik de typografie van de tekst per personage aangepast. 
-1. De teskst van *Constant K* is in *brenner sans* geschreven. Dit is namelijk een wat neutralere stijl van het font en dit personage heeft vrijwel de meeste zinnen in het fragment. Om deze reden heb ik hem de duidelijkste stijl van het font gegeven. 
+1. De tekst van *Constant K* is in *brenner sans* geschreven. Dit is namelijk een wat neutralere stijl van het font en dit personage heeft vrijwel de meeste zinnen in het fragment. Om deze reden heb ik hem de duidelijkste stijl van het font gegeven. 
 
 2. De *voice* die tegen Constant praat heb ik *brenner sans light italic* gegeven. Dit is net als de tekst van constant goed te lezen maar is daarnaast ook duidelijk van zijn tekst te onderscheiden. Ik heb de tekst light en italic gemaakt zodat deze tekst er ook overkomt als een intercom en een "extern" geluid buiten het shot. Door de tekst schuin te zetten hoop ik het gevoel te creëren dat deze stem van een persoon komt die zich ergens anders bevindt en zich bij wijze van spreken door een walkie talkie verstaanbaar maakt. 
 
@@ -130,6 +130,8 @@ Zoals ik net al omschreef was ik al erg ver met het animeren van het fragment to
 Vasilis zei dat de cirkel die de pieptoon aangeeft sneller weer naar zwart mag springen aan het eind van het geluid. Het is namelijk een harde overgang. Verder had ik goed moet de tekst gespeeld en zaten er volgens Vasilis goede experimenten in mijn uitwerking.
 
 Darice zei over hetzelfde deel dat de closed caption van dat moment een iets donkerdere schaduw zou mogen krijgen omdat hij op deze manier nog niet was opgevallen. Ze vond de cirkel die de pieptoon aangeeft een erg leuke en prettige manier om aan te geven dat een geluid harder en intenser wordt. 
+
+Verder waren de geluid aanduidingen en de animaties op de closed captions volgens darice duidelijk en een leuke toevoeging. Ik kon hier in fragment twee nog meer mee doen.
 
 ## Principes verwerkt in mijn eindversie
 
@@ -245,3 +247,5 @@ Totaal nieuw voor mij was het gebruiken van clip-path. Hiermee kon ik goed de fo
 ## Na feedback gesprek aanpassingen: Cirkel overgang en tekstkleur
 Na de feedback van Vasilis en Darice heb ik nog twee kleine dingetjes aan (moeten) passen. Ik heb de overgang in het lange verhoor van fragment één wat harder gemaakt. Vasilis gaf aan dat deze iets te subtiel was voor een harde overgang. De cirkel springt nu veel sneller weer open naar zwart beeld dan het eerst deed. Helaas kan ik het verschil niet laten zien omdat ik de aanpassing in dezelfde versie heb gemaakt als waar ik feedback op kreeg.
 Ook heb ik voor Darice de text-shadow aangepast naar "black". Zo is deze als het goed is goed te zien en opvallender dan het lichtgrijs dat het hiervoor was.
+
+
