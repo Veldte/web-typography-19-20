@@ -135,7 +135,8 @@ Darice zei over hetzelfde deel dat de closed caption van dat moment een iets don
 
 Verder waren de geluid aanduidingen en de animaties op de closed captions volgens darice duidelijk en een leuke toevoeging. Ik kon hier in fragment twee nog meer mee doen.
 
-- Wat heb ik hiervan verwerkt?
+* Wat heb ik hiervan verwerkt?
+
 Ik heb de feedback van Darice meegenomen maar niet volledig zo verwerkt. Ik heb namelijk de shaduw donkerder gemaakt maar de tekst wit gelaten. Ik vond namelijk dat de sound met alleen een donkerdere schadow een beter contrast geeft op de witte achtergrond. Wanneer ik deze donker zou maken zou dit niet meer consistent zijn met de andere sound captions en was ik bang dat deze caption niet zou opvallen als een caption.
 
 
